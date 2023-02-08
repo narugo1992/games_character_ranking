@@ -36,9 +36,15 @@ def create_ranking_project(game: str, output_dir: str, count: int = 10, icon_siz
 
         headers = ['Rank', 'Face', 'CN', 'JP', 'EN', 'All Images', 'R18 Images']
         table = []
+        existing_filenames = set()
         for rank, (ch, total_count, r18_count) in enumerate(tqdm(items), start=1):
             logo_image = get_logo(ch, min_size=icon_size).resize((icon_size, icon_size))
             logo_filename = f'logo_{ch.enname}.png'
+            index = 1
+            while logo_filename in existing_filenames:
+                index += 1
+                logo_filename = f'logo_{ch.enname}_{index}.png'
+            existing_filenames.add(logo_filename)
             logo_image_path = os.path.join(images_dir, logo_filename)
             logo_image.save(logo_image_path)
 
