@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [Safe]
 
-Genshin game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:31:14.734919+00:00`.
+Genshin game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:54:39.375837+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
