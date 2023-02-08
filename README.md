@@ -1,5 +1,7 @@
 # Character Ranking List of Genshin [R18]
 
+Genshin game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:30:59.817890+00:00`.
+
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
 |      1 | ![ganyu](./images/logo_ganyu.png)                           | 甘雨    | 甘雨     | ganyu              |        31941 |         8778 |
