@@ -61,6 +61,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install --upgrade flake8 setuptools wheel twine
           make install
+          python -m gchar update -g ${{ matrix.game }}
       - name: Test the basic environment
         shell: bash
         run: |

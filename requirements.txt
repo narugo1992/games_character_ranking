@@ -1,7 +1,7 @@
 gchar[speedup]>=0.0.2
 pillow
 anime-face-detector
-numpy
+numpy==1.21.6
 torch
 tabulate
 click>=8.0.0
