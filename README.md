@@ -1,5 +1,7 @@
 # Character Ranking List of Azurlane [Safe]
 
+Azurlane game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:37:27.020884+00:00`.
+
 |   Rank | Face                                          | CN    | JP        | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|-------|-----------|-------------|--------------|--------------|
 |      1 | ![formidable](./images/logo_formidable.png)   | 可畏    | フォーミダブル   | formidable  |         8299 |         2596 |
