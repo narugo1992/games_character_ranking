@@ -15,6 +15,8 @@ def _get_detector(model='yolov3'):
 def fill_background(image: Image.Image, background: str = 'white') -> Image.Image:
     if image.mode == 'RGB':
         return image
+    if image.mode != 'RGBA':
+        image = image.convert('RGBA')
 
     background = background or 'white'
     result = Image.new('RGBA', image.size, background)
