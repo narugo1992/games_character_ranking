@@ -50,7 +50,8 @@ _SKIN_YIELDERS = {
 }
 
 
-def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 0.5) -> Image.Image:
+def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 0.5,
+             min_size: int = 120) -> Image.Image:
     from .image import find_heads
     cls, game_name = get_character_class(type(ch))
     collected_skins = []
@@ -61,13 +62,13 @@ def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 
 
             skin_image = Image.open(skin_file)
             for head, score in find_heads(skin_image):
-                if score >= out_threshold:
+                if score >= out_threshold and head.width >= min_size:
                     return head
                 elif score >= min_threshold:
-                    collected_skins.append((head, score))
+                    collected_skins.append((head, min(score, (min_threshold + out_threshold) / 2), head.width))
 
     if not collected_skins:
         raise ValueError(f'No head image detected for {ch!r}.')
 
-    collected_skins = sorted(collected_skins, key=lambda x: -x[1])
+    collected_skins = sorted(collected_skins, key=lambda x: (-x[1], -x[2]))
     return collected_skins[0][0]
