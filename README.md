@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [Safe]
 
-Genshin game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:20:20.520180+00:00`.
+Genshin game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 15:44:35.771770+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
@@ -34,3 +34,23 @@ Genshin game character safe picture number ranking on pixiv, the top 30, the dat
 |     28 | ![kaeya](./images/logo_kaeya.png)                           | 凯亚    | ガイア    | kaeya              |         5052 |          599 |
 |     29 | ![lisa](./images/logo_lisa.png)                             | 丽莎    | リサ     | lisa               |         4642 |         2096 |
 |     30 | ![albedo](./images/logo_albedo.png)                         | 阿贝多   | アルベド   | albedo             |         4624 |          307 |
+|     31 | ![ningguang](./images/logo_ningguang.png)                   | 凝光    | 凝光     | ningguang          |         4053 |         1196 |
+|     32 | ![xingqiu](./images/logo_xingqiu.png)                       | 行秋    | 行秋     | xingqiu            |         3736 |          448 |
+|     33 | ![kamisato_ayato](./images/logo_kamisato_ayato.png)         | 神里绫人  | 神里綾人   | kamisato_ayato     |         3556 |          406 |
+|     34 | ![chongyun](./images/logo_chongyun.png)                     | 重云    | 重雲     | chongyun           |         3546 |          391 |
+|     35 | ![yanfei](./images/logo_yanfei.png)                         | 烟绯    | 煙緋     | yanfei             |         3460 |          524 |
+|     36 | ![kujou_sara](./images/logo_kujou_sara.png)                 | 九条裟罗  | 九条裟羅   | kujou_sara         |         3321 |         1070 |
+|     37 | ![diona](./images/logo_diona.png)                           | 迪奥娜   | ディオナ   | diona              |         3178 |          757 |
+|     38 | ![sucrose](./images/logo_sucrose.png)                       | 砂糖    | スクロース  | sucrose            |         3115 |          709 |
+|     39 | ![beidou](./images/logo_beidou.png)                         | 北斗    | 北斗     | beidou             |         3077 |          905 |
+|     40 | ![rosaria](./images/logo_rosaria.png)                       | 罗莎莉亚  | ロサリア   | rosaria            |         3047 |         1014 |
+|     41 | ![xiangling](./images/logo_xiangling.png)                   | 香菱    | 香菱     | xiangling          |         2967 |          540 |
+|     42 | ![wanderer](./images/logo_wanderer.png)                     | 流浪者   | 放浪者    | wanderer           |         2814 |          172 |
+|     43 | ![gorou](./images/logo_gorou.png)                           | 五郎    | ゴロー    | gorou              |         2674 |          610 |
+|     44 | ![tighnari](./images/logo_tighnari.png)                     | 提纳里   | ティナリ   | tighnari           |         2527 |          198 |
+|     45 | ![thoma](./images/logo_thoma.png)                           | 托马    | トーマ    | thoma              |         2252 |          495 |
+|     46 | ![traveler](./images/logo_traveler.png)                     | 旅行者   | 旅人     | traveler           |         2126 |          421 |
+|     47 | ![razor](./images/logo_razor.png)                           | 雷泽    | レザー    | razor              |         2065 |          280 |
+|     48 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2052 |          449 |
+|     49 | ![kuki_shinobu](./images/logo_kuki_shinobu.png)             | 久岐忍   | 久岐忍    | kuki_shinobu       |         1978 |          611 |
+|     50 | ![yun_jin](./images/logo_yun_jin.png)                       | 云堇    | 雲菫     | yun_jin            |         1965 |          368 |
