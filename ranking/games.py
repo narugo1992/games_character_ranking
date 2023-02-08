@@ -65,10 +65,10 @@ def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 
                 if score >= out_threshold and head.width >= min_size:
                     return head
                 elif score >= min_threshold:
-                    collected_skins.append((head, min(score, (min_threshold + out_threshold) / 2), head.width))
+                    collected_skins.append((head, score, head.width))
 
     if not collected_skins:
         raise ValueError(f'No head image detected for {ch!r}.')
 
-    collected_skins = sorted(collected_skins, key=lambda x: (-x[1], -x[2]))
+    collected_skins = sorted(collected_skins, key=lambda x: (-min(x[1], (min_threshold + out_threshold) / 2), -x[2]))
     return collected_skins[0][0]

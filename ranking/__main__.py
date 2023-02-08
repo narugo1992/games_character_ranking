@@ -28,8 +28,10 @@ def cli():
               help='Output path of ranklist project.')
 @click.option('--number', '-n', 'number', type=int, default=10,
               help='Character count.')
-def update(game: str, mode: str, number: int, output_dir: str):
-    create_ranking_project(game, output_dir, number, mode=mode)
+@click.option('--icon_size', 'icon_size', type=int, default=150,
+              help='Size of character icon (in pixels)', show_default=True)
+def update(game: str, mode: str, number: int, output_dir: str, icon_size: int):
+    create_ranking_project(game, output_dir, number, icon_size, mode)
 
 
 if __name__ == '__main__':

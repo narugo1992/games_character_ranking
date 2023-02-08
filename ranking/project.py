@@ -10,7 +10,7 @@ from .games import get_character_class, get_logo
 IMAGES = 'images'
 
 
-def create_ranking_project(game: str, output_dir: str, count: int = 10, image_size: int = 100, mode: str = 'r18'):
+def create_ranking_project(game: str, output_dir: str, count: int = 10, icon_size: int = 100, mode: str = 'r18'):
     cls, game_name = get_character_class(game)
     items = []
     for ch in cls.all(contains_extra=False):
@@ -37,7 +37,7 @@ def create_ranking_project(game: str, output_dir: str, count: int = 10, image_si
         headers = ['Rank', 'Face', 'CN', 'JP', 'EN', 'All Images', 'R18 Images']
         table = []
         for rank, (ch, total_count, r18_count) in enumerate(tqdm(items), start=1):
-            logo_image = get_logo(ch).resize((image_size, image_size))
+            logo_image = get_logo(ch, min_size=icon_size).resize((icon_size, icon_size))
             logo_filename = f'logo_{ch.enname}.png'
             logo_image_path = os.path.join(images_dir, logo_filename)
             logo_image.save(logo_image_path)
