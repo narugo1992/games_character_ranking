@@ -65,10 +65,13 @@ def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 
                 try:
                     skin.download(skin_file, timeout=20)
                 except RequestException:
-                    time.sleep(sleep_time)
-                    sleep_time *= 2
+                    pass
                 else:
-                    break
+                    if os.path.getsize(skin_file):
+                        break
+
+                time.sleep(sleep_time)
+                sleep_time *= 2
 
             skin_image = Image.open(skin_file)
             for i, (head, score) in enumerate(find_heads(skin_image)):
