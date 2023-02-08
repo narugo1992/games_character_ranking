@@ -1,6 +1,6 @@
 # Character Ranking List of Girlsfrontline [R18]
 
-Girlsfrontline game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:28:03.889799+00:00`.
+Girlsfrontline game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 15:46:23.428318+00:00`.
 
 |   Rank | Face                                            | CN         | JP         | EN           |   All Images |   R18 Images |
 |--------|-------------------------------------------------|------------|------------|--------------|--------------|--------------|
@@ -34,3 +34,23 @@ Girlsfrontline game character r18 picture number ranking on pixiv, the top 30, t
 |     28 | ![five_seven](./images/logo_five_seven.png)     | Five-seveN | Five-seven | five_seven   |          869 |          144 |
 |     29 | ![aa_12](./images/logo_aa_12.png)               | AA-12      | AA-12      | aa_12        |         1489 |          143 |
 |     30 | ![gr_g36](./images/logo_gr_g36.png)             | G36        | GrG36      | gr_g36       |         1428 |          143 |
+|     31 | ![mp40](./images/logo_mp40.png)                 | MP40       | MP40       | mp40         |          953 |          135 |
+|     32 | ![st_ar_15](./images/logo_st_ar_15.png)         | STAR-15    | STAR-15    | st_ar_15     |         1739 |          133 |
+|     33 | ![fal](./images/logo_fal.png)                   | FAL        | FAL        | fal          |          760 |          132 |
+|     34 | ![grizzly](./images/logo_grizzly.png)           | 灰熊MKV      | グリズリー      | grizzly      |          773 |          128 |
+|     35 | ![ots_14](./images/logo_ots_14.png)             | OTs-14     | OTs-14     | ots_14       |          833 |          113 |
+|     36 | ![mdr](./images/logo_mdr.png)                   | MDR        | MDR        | mdr          |         1109 |          112 |
+|     37 | ![welrod_mkii](./images/logo_welrod_mkii.png)   | 维尔德MkⅡ     | ウェルロッドMkII | welrod_mkii  |          818 |          111 |
+|     38 | ![dp_12](./images/logo_dp_12.png)               | DP-12      | DP-12      | dp_12        |          277 |          101 |
+|     39 | ![tmp](./images/logo_tmp.png)                   | TMP        | TMP        | tmp          |          712 |           89 |
+|     40 | ![m37](./images/logo_m37.png)                   | M37        | M37        | m37          |          398 |           87 |
+|     41 | ![k2](./images/logo_k2.png)                     | K2         | K2         | k2           |          829 |           84 |
+|     42 | ![pkp](./images/logo_pkp.png)                   | PKP        | PKP        | pkp          |          639 |           84 |
+|     43 | ![gr_g36c](./images/logo_gr_g36c.png)           | G36C       | GrG36c     | gr_g36c      |          565 |           84 |
+|     44 | ![am_rfb](./images/logo_am_rfb.png)             | RFB        | AmRFB      | am_rfb       |          932 |           77 |
+|     45 | ![kar98k](./images/logo_kar98k.png)             | Kar98k     | Kar98k     | kar98k       |         1113 |           74 |
+|     46 | ![saiga_12](./images/logo_saiga_12.png)         | Saiga-12   | Saiga-12   | saiga_12     |          422 |           73 |
+|     47 | ![m950a](./images/logo_m950a.png)               | M950A      | M950A      | m950a        |          813 |           72 |
+|     48 | ![sr_3mp](./images/logo_sr_3mp.png)             | SR-3MP     | SR-3MP     | sr_3mp       |          462 |           72 |
+|     49 | ![iws_2000](./images/logo_iws_2000.png)         | IWS2000    | IWS2000    | iws_2000     |          828 |           71 |
+|     50 | ![ump40](./images/logo_ump40.png)               | UMP40      | UMP40      | ump40        |          902 |           70 |
