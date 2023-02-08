@@ -73,10 +73,14 @@ jobs:
           pip list
           tree .
       - name: Creating ranklist of ${{ matrix.game }} [${{ matrix.mode }}]
-        shell: bash
-        run: |
-          python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist -n 50
-          tree dist
+        uses: nick-fields/retry@v2
+        with:
+          shell: bash
+          max_attempts: 3
+          retry_on: error
+          command: |
+            python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist -n 50
+            tree dist
       - name: Deploy to Github Page
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
