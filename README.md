@@ -1,5 +1,7 @@
 # Character Ranking List of Fgo [Safe]
 
+Fgo game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:32:04.558887+00:00`.
+
 |   Rank | Face                                                            | CN         | JP           | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|------------|--------------|----------------------|--------------|--------------|
 |      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)           | 玛修·基列莱特    | マシュ・キリエライト   | mash_kyrielight      |        29306 |         6564 |
