@@ -1,6 +1,6 @@
 # Character Ranking List of Azurlane [R18]
 
-Azurlane game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 13:20:15.334599+00:00`.
+Azurlane game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 13:52:53.813218+00:00`.
 
 |   Rank | Face                                          | CN    | JP        | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|-------|-----------|-------------|--------------|--------------|
