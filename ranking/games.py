@@ -1,5 +1,6 @@
 import os.path
 import tempfile
+import time
 from typing import Union, Type, Iterator, Tuple
 
 from PIL import Image
@@ -9,6 +10,7 @@ from gchar.games.base import Character, Skin
 from gchar.games.fgo import Character as FateGrandOrderCharacter
 from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
+from requests.exceptions import RequestException
 
 _GAMES = [
     (ArknightsCharacter, 'arknights'),
@@ -58,7 +60,15 @@ def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 
     for skin in _SKIN_YIELDERS.get(game_name, _yield_skin_default)(ch):
         with tempfile.TemporaryDirectory() as td:
             skin_file = os.path.join(td, 'skin.png')
-            skin.download(skin_file)
+            sleep_time = 3.0
+            while True:
+                try:
+                    skin.download(skin_file, timeout=20)
+                except RequestException:
+                    time.sleep(sleep_time)
+                    sleep_time *= 2
+                else:
+                    break
 
             skin_image = Image.open(skin_file)
             for i, (head, score) in enumerate(find_heads(skin_image)):
