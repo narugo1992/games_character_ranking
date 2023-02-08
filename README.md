@@ -1,6 +1,6 @@
 # Character Ranking List of Arknights [Safe]
 
-Arknights game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:20:23.387073+00:00`.
+Arknights game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 15:46:08.511162+00:00`.
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
@@ -34,3 +34,23 @@ Arknights game character safe picture number ranking on pixiv, the top 30, the d
 |     28 | ![ceobe](./images/logo_ceobe.png)             | 刻俄柏  | ケオベ      | ceobe       |         2016 |          182 |
 |     29 | ![blaze](./images/logo_blaze.png)             | 煌    | ブレイズ     | blaze       |         1885 |          360 |
 |     30 | ![ptilopsis](./images/logo_ptilopsis.png)     | 白面鸮  | フィリオプシス  | ptilopsis   |         1828 |          179 |
+|     31 | ![platinum](./images/logo_platinum.png)       | 白金   | プラチナ     | platinum    |         1794 |          229 |
+|     32 | ![rosmontis](./images/logo_rosmontis.png)     | 迷迭香  | ロスモンティス  | rosmontis   |         1723 |          201 |
+|     33 | ![sussurro](./images/logo_sussurro.png)       | 苏苏洛  | ススーロ     | sussurro    |         1717 |          279 |
+|     34 | ![sora](./images/logo_sora.png)               | 空    | ソラ       | sora        |         1644 |          172 |
+|     35 | ![utage](./images/logo_utage.png)             | 宴    | ウタゲ      | utage       |         1544 |          423 |
+|     36 | ![jessica](./images/logo_jessica.png)         | 杰西卡  | ジェシカ     | jessica     |         1501 |          127 |
+|     37 | ![myrtle](./images/logo_myrtle.png)           | 桃金娘  | テンニンカ    | myrtle      |         1496 |          175 |
+|     38 | ![zima](./images/logo_zima.png)               | 凛冬   | ズィマー     | zima        |         1486 |           89 |
+|     39 | ![shining](./images/logo_shining.png)         | 闪灵   | シャイニング   | shining     |         1482 |          241 |
+|     40 | ![liskarm](./images/logo_liskarm.png)         | 雷蛇   | リスカム     | liskarm     |         1474 |          185 |
+|     41 | ![silence](./images/logo_silence.png)         | 赫默   | サイレンス    | silence     |         1437 |          116 |
+|     42 | ![tomimi](./images/logo_tomimi.png)           | 特米米  | トミミ      | tomimi      |         1401 |          157 |
+|     43 | ![lee](./images/logo_lee.png)                 | 老鲤   | リー       | lee         |         1400 |          255 |
+|     44 | ![frostleaf](./images/logo_frostleaf.png)     | 霜叶   | フロストリーフ  | frostleaf   |         1354 |          110 |
+|     45 | ![nearl](./images/logo_nearl.png)             | 临光   | ニアール     | nearl       |         1337 |          218 |
+|     46 | ![magallan](./images/logo_magallan.png)       | 麦哲伦  | マゼラン     | magallan    |         1318 |          130 |
+|     47 | ![thorns](./images/logo_thorns.png)           | 棘刺   | ソーンズ     | thorns      |         1310 |          107 |
+|     48 | ![gum](./images/logo_gum.png)                 | 古米   | グム       | gum         |         1261 |           57 |
+|     49 | ![swire](./images/logo_swire.png)             | 诗怀雅  | スワイヤー    | swire       |         1255 |          120 |
+|     50 | ![eunectes](./images/logo_eunectes.png)       | 森蚺   | ユーネクテス   | eunectes    |         1233 |          225 |
