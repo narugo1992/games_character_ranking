@@ -1,0 +1,8 @@
+gchar[speedup]>=0.0.2
+pillow
+anime-face-detector
+numpy
+torch
+tabulate
+click>=8.0.0
+tqdm
