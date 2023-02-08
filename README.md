@@ -1,6 +1,6 @@
 # Character Ranking List of Fgo [Safe]
 
-Fgo game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:30:21.522238+00:00`.
+Fgo game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 17:47:23.794456+00:00`.
 
 |   Rank | Face                                                                  | CN             | JP                   | EN                      |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------|----------------|----------------------|-------------------------|--------------|--------------|
@@ -44,7 +44,7 @@ Fgo game character safe picture number ranking on pixiv, the top 50, the data is
 |     38 | ![tam_lin_tristan](./images/logo_tam_lin_tristan.png)                 | 妖精骑士崔斯坦        | 妖精騎士トリスタン            | tam_lin_tristan         |         4383 |          511 |
 |     39 | ![mysterious_heroine_x](./images/logo_mysterious_heroine_x.png)       | 谜之女主角x         | 謎のヒロインx              | mysterious_heroine_x    |         4260 |          367 |
 |     40 | ![altria_caster](./images/logo_altria_caster.png)                     | 阿尔托莉雅·卡斯特      | アルトリア・キャスター          | altria_caster           |         4238 |          246 |
-|     41 | ![tomoe_gozen](./images/logo_tomoe_gozen.png)                         | 巴御前            | 巴御前                  | tomoe_gozen             |         4237 |          851 |
+|     41 | ![tomoe_gozen](./images/logo_tomoe_gozen_2.png)                       | 巴御前            | 巴御前                  | tomoe_gozen             |         4237 |          851 |
 |     42 | ![okada_izo](./images/logo_okada_izo.png)                             | 冈田以藏           | 岡田以蔵                 | okada_izo               |         3830 |          182 |
 |     43 | ![marie_antoinette](./images/logo_marie_antoinette.png)               | 玛丽·安托瓦内特       | マリー・アントワネット          | marie_antoinette        |         3821 |          240 |
 |     44 | ![illyasviel_von_einzbern](./images/logo_illyasviel_von_einzbern.png) | 伊莉雅丝菲尔·冯·爱因兹贝伦 | イリヤスフィール・フォン・アインツベルン | illyasviel_von_einzbern |         3767 |         1362 |
