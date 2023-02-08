@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [R18]
 
-Genshin game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:20:26.102183+00:00`.
+Genshin game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 15:44:26.695529+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
@@ -34,3 +34,23 @@ Genshin game character r18 picture number ranking on pixiv, the top 30, the data
 |     28 | ![qiqi](./images/logo_qiqi.png)                             | 七七    | 七七     | qiqi               |         6081 |          962 |
 |     29 | ![xiao](./images/logo_xiao.png)                             | 魈     | 魈      | xiao               |        11493 |          909 |
 |     30 | ![beidou](./images/logo_beidou.png)                         | 北斗    | 北斗     | beidou             |         3077 |          905 |
+|     31 | ![diona](./images/logo_diona.png)                           | 迪奥娜   | ディオナ   | diona              |         3178 |          757 |
+|     32 | ![diluc](./images/logo_diluc.png)                           | 迪卢克   | ディルック  | diluc              |         6346 |          721 |
+|     33 | ![sucrose](./images/logo_sucrose.png)                       | 砂糖    | スクロース  | sucrose            |         3115 |          709 |
+|     34 | ![kuki_shinobu](./images/logo_kuki_shinobu.png)             | 久岐忍   | 久岐忍    | kuki_shinobu       |         1978 |          611 |
+|     35 | ![gorou](./images/logo_gorou.png)                           | 五郎    | ゴロー    | gorou              |         2674 |          610 |
+|     36 | ![kaeya](./images/logo_kaeya.png)                           | 凯亚    | ガイア    | kaeya              |         5052 |          599 |
+|     37 | ![xiangling](./images/logo_xiangling.png)                   | 香菱    | 香菱     | xiangling          |         2967 |          540 |
+|     38 | ![yanfei](./images/logo_yanfei.png)                         | 烟绯    | 煙緋     | yanfei             |         3460 |          524 |
+|     39 | ![thoma](./images/logo_thoma.png)                           | 托马    | トーマ    | thoma              |         2252 |          495 |
+|     40 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2052 |          449 |
+|     41 | ![xingqiu](./images/logo_xingqiu.png)                       | 行秋    | 行秋     | xingqiu            |         3736 |          448 |
+|     42 | ![traveler](./images/logo_traveler.png)                     | 旅行者   | 旅人     | traveler           |         2126 |          421 |
+|     43 | ![sayu](./images/logo_sayu.png)                             | 早柚    | 早柚     | sayu               |         1892 |          412 |
+|     44 | ![kamisato_ayato](./images/logo_kamisato_ayato.png)         | 神里绫人  | 神里綾人   | kamisato_ayato     |         3556 |          406 |
+|     45 | ![chongyun](./images/logo_chongyun.png)                     | 重云    | 重雲     | chongyun           |         3546 |          391 |
+|     46 | ![yun_jin](./images/logo_yun_jin.png)                       | 云堇    | 雲菫     | yun_jin            |         1965 |          368 |
+|     47 | ![candace](./images/logo_candace.png)                       | 坎蒂丝   | キャンディス | candace            |          897 |          348 |
+|     48 | ![kaedehara_kazuha](./images/logo_kaedehara_kazuha.png)     | 枫原万叶  | 楓原万葉   | kaedehara_kazuha   |         5339 |          338 |
+|     49 | ![bennett](./images/logo_bennett.png)                       | 班尼特   | ベネット   | bennett            |         1575 |          335 |
+|     50 | ![collei](./images/logo_collei.png)                         | 柯莱    | コレイ    | collei             |         1572 |          334 |
