@@ -6,4 +6,5 @@ install:
 	mim install mmcv-full
 	mim install mmdet
 	mim install mmpose
-	mim install -r requirements.txt
+	pip install anime-face-detector
+	pip install -r requirements.txt
