@@ -1,6 +1,6 @@
 # Character Ranking List of Azurlane [Safe]
 
-Azurlane game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:24:40.983788+00:00`.
+Azurlane game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:41:07.583670+00:00`.
 
 |   Rank | Face                                                      | CN       | JP              | EN                |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------|----------|-----------------|-------------------|--------------|--------------|
@@ -13,7 +13,7 @@ Azurlane game character safe picture number ranking on pixiv, the top 50, the da
 |      7 | ![prinz_eugen](./images/logo_prinz_eugen.png)             | 欧根亲王     | プリンツ・オイゲン       | prinz_eugen       |         7185 |         1840 |
 |      8 | ![sirius](./images/logo_sirius.png)                       | 天狼星      | シリアス            | sirius            |         6441 |         2172 |
 |      9 | ![enterprise](./images/logo_enterprise.png)               | 企业       | エンタープライズ        | enterprise        |         6256 |          756 |
-|     10 | ![enterprise](./images/logo_enterprise.png)               | 进取       | エンタープライズ        | enterprise        |         6250 |          756 |
+|     10 | ![enterprise](./images/logo_enterprise_2.png)             | 进取       | エンタープライズ        | enterprise        |         6250 |          756 |
 |     11 | ![laffey](./images/logo_laffey.png)                       | 拉菲       | ラフィー            | laffey            |         6237 |          876 |
 |     12 | ![bremerton](./images/logo_bremerton.png)                 | 布莱默顿     | ブレマートン          | bremerton         |         6060 |         2788 |
 |     13 | ![illustrious](./images/logo_illustrious.png)             | 光辉       | イラストリアス         | illustrious       |         5091 |         1722 |
