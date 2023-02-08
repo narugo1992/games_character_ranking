@@ -1,5 +1,7 @@
 # Character Ranking List of Arknights [Safe]
 
+Arknights game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:31:43.721870+00:00`.
+
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
 |      1 | ![amiya](./images/logo_amiya.png)             | 阿米娅  | アーミヤ     | amiya       |        13303 |          956 |
