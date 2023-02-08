@@ -1,6 +1,6 @@
 # Character Ranking List of Girlsfrontline [Safe]
 
-Girlsfrontline game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:21:04.534683+00:00`.
+Girlsfrontline game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 15:47:59.058550+00:00`.
 
 |   Rank | Face                                            | CN         | JP         | EN           |   All Images |   R18 Images |
 |--------|-------------------------------------------------|------------|------------|--------------|--------------|--------------|
@@ -34,3 +34,23 @@ Girlsfrontline game character safe picture number ranking on pixiv, the top 30, 
 |     28 | ![vector](./images/logo_vector.png)             | Vector     | Vector     | vector       |          991 |          166 |
 |     29 | ![mp40](./images/logo_mp40.png)                 | MP40       | MP40       | mp40         |          953 |          135 |
 |     30 | ![m14](./images/logo_m14.png)                   | M14        | M14        | m14          |          948 |           69 |
+|     31 | ![am_rfb](./images/logo_am_rfb.png)             | RFB        | AmRFB      | am_rfb       |          932 |           77 |
+|     32 | ![vsk_94](./images/logo_vsk_94.png)             | VSK-94     | VSK-94     | vsk_94       |          915 |          303 |
+|     33 | ![ump40](./images/logo_ump40.png)               | UMP40      | UMP40      | ump40        |          902 |           70 |
+|     34 | ![five_seven](./images/logo_five_seven.png)     | Five-seveN | Five-seven | five_seven   |          869 |          144 |
+|     35 | ![ots_14](./images/logo_ots_14.png)             | OTs-14     | OTs-14     | ots_14       |          833 |          113 |
+|     36 | ![k2](./images/logo_k2.png)                     | K2         | K2         | k2           |          829 |           84 |
+|     37 | ![iws_2000](./images/logo_iws_2000.png)         | IWS2000    | IWS2000    | iws_2000     |          828 |           71 |
+|     38 | ![welrod_mkii](./images/logo_welrod_mkii.png)   | 维尔德MkⅡ     | ウェルロッドMkII | welrod_mkii  |          818 |          111 |
+|     39 | ![m950a](./images/logo_m950a.png)               | M950A      | M950A      | m950a        |          813 |           72 |
+|     40 | ![ff_fnc](./images/logo_ff_fnc.png)             | FNC        | FFFNC      | ff_fnc       |          794 |           39 |
+|     41 | ![gd_dsr_50](./images/logo_gd_dsr_50.png)       | DSR-50     | GdDSR-50   | gd_dsr_50    |          791 |          195 |
+|     42 | ![grizzly](./images/logo_grizzly.png)           | 灰熊MKV      | グリズリー      | grizzly      |          773 |          128 |
+|     43 | ![fal](./images/logo_fal.png)                   | FAL        | FAL        | fal          |          760 |          132 |
+|     44 | ![pa_15](./images/logo_pa_15.png)               | PA-15      | PA-15      | pa_15        |          740 |          161 |
+|     45 | ![ntw_20](./images/logo_ntw_20.png)             | NTW-20     | NTW-20     | ntw_20       |          740 |           67 |
+|     46 | ![ribeyrolles](./images/logo_ribeyrolles.png)   | 利贝罗勒       | リベロール      | ribeyrolles  |          733 |           46 |
+|     47 | ![m1895](./images/logo_m1895.png)               | 纳甘左轮       | M1895      | m1895        |          726 |           65 |
+|     48 | ![tmp](./images/logo_tmp.png)                   | TMP        | TMP        | tmp          |          712 |           89 |
+|     49 | ![thunder](./images/logo_thunder.png)           | 雷电         | Thunder    | thunder      |          650 |           52 |
+|     50 | ![pkp](./images/logo_pkp.png)                   | PKP        | PKP        | pkp          |          639 |           84 |
