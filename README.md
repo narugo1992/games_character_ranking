@@ -1,6 +1,6 @@
 # Character Ranking List of Girlsfrontline [Safe]
 
-Girlsfrontline game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:53:07.817930+00:00`.
+Girlsfrontline game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 13:21:26.511631+00:00`.
 
 |   Rank | Face                                            | CN         | JP         | EN           |   All Images |   R18 Images |
 |--------|-------------------------------------------------|------------|------------|--------------|--------------|--------------|
