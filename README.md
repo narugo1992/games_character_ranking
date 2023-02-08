@@ -1,6 +1,6 @@
 # Character Ranking List of Azurlane [R18]
 
-Azurlane game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:24:21.583158+00:00`.
+Azurlane game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:46:20.383495+00:00`.
 
 |   Rank | Face                                                            | CN    | JP             | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|-------|----------------|----------------------|--------------|--------------|
@@ -25,7 +25,7 @@ Azurlane game character r18 picture number ranking on pixiv, the top 50, the dat
 |     19 | ![kaga](./images/logo_kaga.png)                                 | 加贺    | 加賀             | kaga                 |         4845 |          771 |
 |     20 | ![javelin](./images/logo_javelin.png)                           | 标枪    | ジャベリン          | javelin              |         4417 |          762 |
 |     21 | ![enterprise](./images/logo_enterprise.png)                     | 企业    | エンタープライズ       | enterprise           |         6256 |          756 |
-|     22 | ![enterprise](./images/logo_enterprise.png)                     | 进取    | エンタープライズ       | enterprise           |         6250 |          756 |
+|     22 | ![enterprise](./images/logo_enterprise_2.png)                   | 进取    | エンタープライズ       | enterprise           |         6250 |          756 |
 |     23 | ![zara](./images/logo_zara.png)                                 | 扎拉    | ザラ             | zara                 |         1643 |          681 |
 |     24 | ![dido](./images/logo_dido.png)                                 | 黛朵    | ダイドー           | dido                 |         2306 |          673 |
 |     25 | ![yamashiro](./images/logo_yamashiro.png)                       | 山城    | 山城             | yamashiro            |         2694 |          645 |
