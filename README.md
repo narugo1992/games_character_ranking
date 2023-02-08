@@ -1,5 +1,7 @@
 # Character Ranking List of Girlsfrontline [R18]
 
+Girlsfrontline game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:33:19.473514+00:00`.
+
 |   Rank | Face                                            | CN         | JP         | EN           |   All Images |   R18 Images |
 |--------|-------------------------------------------------|------------|------------|--------------|--------------|--------------|
 |      1 | ![416](./images/logo_416.png)                   | HK416      | 416        | 416          |        11835 |         1635 |
