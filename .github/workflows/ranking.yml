@@ -1,5 +1,8 @@
 name: Ranklist Publishing
 
+permissions:
+  contents: write
+
 on:
   push:
   workflow_dispatch:
@@ -69,11 +72,11 @@ jobs:
           pip --version
           pip list
           tree .
-      - name: Clone from huggingface
+      - name: Creating ranklist of ${{ matrix.game }} [${{ matrix.mode }}]
         shell: bash
         run: |
           python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist -n 30
-          ls -al dist
+          tree dist
       - name: Deploy to Github Page
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
