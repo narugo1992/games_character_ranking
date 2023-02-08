@@ -1,6 +1,6 @@
 # Character Ranking List of Arknights [R18]
 
-Arknights game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 17:08:48.912486+00:00`.
+Arknights game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 17:46:28.469272+00:00`.
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
