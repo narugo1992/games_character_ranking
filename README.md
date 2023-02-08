@@ -1,6 +1,6 @@
 # Character Ranking List of Fgo [R18]
 
-Fgo game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:24:29.271329+00:00`.
+Fgo game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 16:42:11.830258+00:00`.
 
 |   Rank | Face                                                                  | CN             | JP                   | EN                      |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------|----------------|----------------------|-------------------------|--------------|--------------|
@@ -27,7 +27,7 @@ Fgo game character r18 picture number ranking on pixiv, the top 50, the data is 
 |     21 | ![ishtar](./images/logo_ishtar.png)                                   | 伊什塔尔           | イシュタル                | ishtar                  |         6083 |         1137 |
 |     22 | ![boudica](./images/logo_boudica.png)                                 | 布狄卡            | ブーディカ                | boudica                 |         2347 |         1134 |
 |     23 | ![tomoe_gozen](./images/logo_tomoe_gozen.png)                         | 巴御前            | 巴御前                  | tomoe_gozen             |         4799 |          908 |
-|     24 | ![tomoe_gozen](./images/logo_tomoe_gozen.png)                         | 巴御前            | 巴御前                  | tomoe_gozen             |         4237 |          851 |
+|     24 | ![tomoe_gozen](./images/logo_tomoe_gozen_2.png)                       | 巴御前            | 巴御前                  | tomoe_gozen             |         4237 |          851 |
 |     25 | ![meltryllis](./images/logo_meltryllis.png)                           | meltryllis     | メルトリリス               | meltryllis              |         8973 |          810 |
 |     26 | ![mysterious_heroine_xx](./images/logo_mysterious_heroine_xx.png)     | 谜之女主角xx        | 謎のヒロインxx             | mysterious_heroine_xx   |         2715 |          792 |
 |     27 | ![sessyoin_kiara](./images/logo_sessyoin_kiara.png)                   | 杀生院祈荒          | 殺生院キアラ               | sessyoin_kiara          |         3759 |          786 |
