@@ -1,5 +1,7 @@
 # Character Ranking List of Azurlane [R18]
 
+Azurlane game character r18 picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 12:31:42.357225+00:00`.
+
 |   Rank | Face                                          | CN    | JP        | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|-------|-----------|-------------|--------------|--------------|
 |      1 | ![taiho](./images/logo_taiho.png)             | 大凤    | 大鳳        | taiho       |         7243 |         2791 |
