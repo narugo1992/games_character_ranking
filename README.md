@@ -1,6 +1,6 @@
 # Character Ranking List of Arknights [Safe]
 
-Arknights game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 13:52:37.893232+00:00`.
+Arknights game character safe picture number ranking on pixiv, the top 30, the data is as of `2023-02-08 15:20:23.387073+00:00`.
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
