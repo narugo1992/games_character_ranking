@@ -1,6 +1,6 @@
 # Character Ranking List of Fgo [R18]
 
-Fgo game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-08 17:52:03.855335+00:00`.
+Fgo game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-09 01:08:40.806069+00:00`.
 
 |   Rank | Face                                                                  | CN             | JP                   | EN                      |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------|----------------|----------------------|-------------------------|--------------|--------------|
