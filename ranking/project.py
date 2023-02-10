@@ -2,7 +2,7 @@ import os
 import re
 from typing import Optional, List, Collection, Tuple
 
-from gchar.resources.pixiv import get_pixiv_illustration_count_by_character
+from gchar.resources.pixiv import query_pixiv_illustration_count_by_character
 from hbutils.string import plural_word
 from tabulate import tabulate
 from tqdm.auto import tqdm
@@ -17,7 +17,7 @@ def create_ranking_table(game: str, icon_dir: str, count: int = 10, icon_size: i
     cls, game_name = get_character_class(game)
     items = []
     for ch in cls.all(contains_extra=False):
-        data = get_pixiv_illustration_count_by_character(ch)
+        data = query_pixiv_illustration_count_by_character(ch)
         if not data:
             continue
         items.append((ch, *data))
