@@ -1,6 +1,6 @@
 # Character Ranking List of Arknights [Safe]
 
-Arknights game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-10 01:09:55.273289+00:00`.
+Arknights game character safe picture number ranking on pixiv, the top 55, the data is as of `2023-02-10 04:16:22.901117+00:00`.
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
@@ -54,3 +54,8 @@ Arknights game character safe picture number ranking on pixiv, the top 50, the d
 |     48 | ![gum](./images/logo_gum.png)                 | 古米   | グム       | gum         |         1242 |           56 |
 |     49 | ![eunectes](./images/logo_eunectes.png)       | 森蚺   | ユーネクテス   | eunectes    |         1235 |          226 |
 |     50 | ![rosa](./images/logo_rosa.png)               | 早露   | ロサ       | rosa        |         1193 |          151 |
+|     51 | ![saga](./images/logo_saga.png)               | 嵯峨   | サガ       | saga        |         1168 |           83 |
+|     52 | ![warfarin](./images/logo_warfarin.png)       | 华法琳  | ワルファリン   | warfarin    |         1157 |          134 |
+|     53 | ![goldenglow](./images/logo_goldenglow.png)   | 澄闪   | ゴールデングロー | goldenglow  |         1114 |           80 |
+|     54 | ![bagpipe](./images/logo_bagpipe.png)         | 风笛   | バグパイプ    | bagpipe     |         1073 |          161 |
+|     55 | ![kroos](./images/logo_kroos.png)             | 克洛丝  | クルース     | kroos       |         1067 |           91 |
