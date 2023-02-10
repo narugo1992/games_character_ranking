@@ -13,20 +13,28 @@ from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
 from requests.exceptions import RequestException
 
 _GAMES = [
-    (ArknightsCharacter, 'arknights'),
-    (FateGrandOrderCharacter, 'fgo'),
-    (AzurLaneCharacter, 'azurlane'),
-    (GenshinImpactCharacter, 'genshin'),
-    (GirlsFrontLineCharacter, 'girlsfrontline'),
+    (ArknightsCharacter, 'arknights', 'arknights'),
+    (FateGrandOrderCharacter, 'fgo', 'fate/grand order'),
+    (AzurLaneCharacter, 'azurlane', 'azur lane'),
+    (GenshinImpactCharacter, 'genshin', 'genshin impact'),
+    (GirlsFrontLineCharacter, 'girlsfrontline', 'girls\' front-line'),
 ]
 
-GAME_NAMES = [name for _, name in _GAMES]
+GAME_NAMES = [name for _, name, _ in _GAMES]
 
 
 def get_character_class(chname: Union[Type[Character], str]) -> Tuple[Type[Character], str]:
-    for cls, name in _GAMES:
+    for cls, name, _ in _GAMES:
         if name == chname or cls == chname:
             return cls, name
+
+    raise ValueError(f'Unknown game - {chname!r}.')
+
+
+def get_character_title(chname: Union[Type[Character], str]) -> str:
+    for cls, name, title in _GAMES:
+        if name == chname or cls == chname:
+            return title
 
     raise ValueError(f'Unknown game - {chname!r}.')
 

@@ -1,5 +1,6 @@
 import math
 from functools import partial
+from typing import List
 
 import click
 from gchar.games.arknights import Character as ArknightsCharacter
@@ -9,7 +10,7 @@ from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
 
 from .games import GAME_NAMES
-from .project import create_ranking_project
+from .project import create_ranking_project, create_homepage_project
 from .utils import GLOBAL_CONTEXT_SETTINGS
 from .utils import print_version as _origin_print_version
 
@@ -42,7 +43,7 @@ def cli():
               help='Output path of ranklist project.')
 @click.option('--number', '-n', 'number', type=int, default=10,
               help='Character count.')
-@click.option('--icon_size', 'icon_size', type=int, default=150,
+@click.option('--icon_size', 'icon_size', type=int, default=120,
               help='Size of character icon (in pixels)', show_default=True)
 def update(game: str, mode: str, number: int, output_dir: str, icon_size: int):
     create_ranking_project(game, output_dir, number, icon_size, mode)
@@ -65,6 +66,22 @@ def crec(game: str, ratio: float, unit: int, min_count: int):
     aligned_count = int(math.ceil(exact_count / unit) * unit)
     final_count = max(min_count, aligned_count)
     print(final_count)
+
+
+@cli.command('relocal', help='Regenerate the local project.')
+@click.option('--game', '-g', 'games', type=click.Choice(GAME_NAMES), multiple=True, default=None,
+              help='Update data of given game from huggingface. '
+                   'All games will be updated when not given.', show_default=True)
+@click.option('--mode', '-m', 'mode', type=click.Choice(['r18', 'safe']), default='r18',
+              help='Mode and order to create.', show_default=True)
+@click.option('--output', '-o', 'output_dir', type=click.Path(file_okay=False), default='.',
+              help='Output path of ranklist project.')
+@click.option('--number', '-n', 'number', type=int, default=5,
+              help='Character count.')
+@click.option('--icon_size', 'icon_size', type=int, default=120,
+              help='Size of character icon (in pixels)', show_default=True)
+def relocal(games: List[str], mode: str, number: int, output_dir: str, icon_size: int):
+    create_homepage_project(output_dir, games, number, icon_size, mode)
 
 
 if __name__ == '__main__':
