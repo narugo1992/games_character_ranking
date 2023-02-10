@@ -4,7 +4,7 @@ permissions:
   contents: write
 
 on:
-#  push:
+  push:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
@@ -80,7 +80,8 @@ jobs:
           max_attempts: 3
           retry_on: error
           command: |
-            python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist -n 50
+            python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist \
+              -n $(python -m ranking crec -g ${{ matrix.game }})
             tree dist
       - name: Deploy to Github Page
         uses: JamesIves/github-pages-deploy-action@3.7.1

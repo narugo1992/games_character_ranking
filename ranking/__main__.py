@@ -1,6 +1,12 @@
+import math
 from functools import partial
 
 import click
+from gchar.games.arknights import Character as ArknightsCharacter
+from gchar.games.azurlane import Character as AzurLaneCharacter
+from gchar.games.fgo import Character as FateGrandOrderCharacter
+from gchar.games.genshin import Character as GenshinImpactCharacter
+from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
 
 from .games import GAME_NAMES
 from .project import create_ranking_project
@@ -8,6 +14,14 @@ from .utils import GLOBAL_CONTEXT_SETTINGS
 from .utils import print_version as _origin_print_version
 
 print_version = partial(_origin_print_version, 'ranking')
+
+GAME_CLASSES = {
+    'fgo': FateGrandOrderCharacter,
+    'arknights': ArknightsCharacter,
+    'genshin': GenshinImpactCharacter,
+    'azurlane': AzurLaneCharacter,
+    'girlsfrontline': GirlsFrontLineCharacter,
+}
 
 
 @click.group(context_settings={**GLOBAL_CONTEXT_SETTINGS})
@@ -32,6 +46,25 @@ def cli():
               help='Size of character icon (in pixels)', show_default=True)
 def update(game: str, mode: str, number: int, output_dir: str, icon_size: int):
     create_ranking_project(game, output_dir, number, icon_size, mode)
+
+
+@cli.command('crec', help='Recommended count for ranklist.')
+@click.option('--game', '-g', 'game', type=click.Choice(GAME_NAMES), required=True,
+              help='Update data of given game from huggingface. '
+                   'All games will be updated when not given.')
+@click.option('--ratio', '-r', 'ratio', type=float, default=0.2,
+              help='Ratio of all characters (not including extra characters)', show_default=True)
+@click.option('--unit', '-u', 'unit', type=int, default=5,
+              help='Unit of all characters.', show_default=True)
+@click.option('--min', '-m', 'min_count', type=int, default=40,
+              help='Minimum count of ranklist.', show_default=True)
+def crec(game: str, ratio: float, unit: int, min_count: int):
+    game_cls = GAME_CLASSES[game]
+    all_count = len(game_cls.all(contains_extra=False))
+    exact_count = all_count * ratio
+    aligned_count = int(math.ceil(exact_count / unit) * unit)
+    final_count = max(min_count, aligned_count)
+    print(final_count)
 
 
 if __name__ == '__main__':
