@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [Safe]
 
-Genshin game character safe picture number ranking on pixiv, the top 50, the data is as of `2023-02-10 01:12:46.032940+00:00`.
+Genshin game character safe picture number ranking on pixiv, the top 40, the data is as of `2023-02-10 04:12:50.088973+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
@@ -44,13 +44,3 @@ Genshin game character safe picture number ranking on pixiv, the top 50, the dat
 |     38 | ![sucrose](./images/logo_sucrose.png)                       | 砂糖    | スクロース  | sucrose            |         3118 |          711 |
 |     39 | ![beidou](./images/logo_beidou.png)                         | 北斗    | 北斗     | beidou             |         3083 |          908 |
 |     40 | ![rosaria](./images/logo_rosaria.png)                       | 罗莎莉亚  | ロサリア   | rosaria            |         3046 |         1016 |
-|     41 | ![xiangling](./images/logo_xiangling.png)                   | 香菱    | 香菱     | xiangling          |         2972 |          540 |
-|     42 | ![wanderer](./images/logo_wanderer.png)                     | 流浪者   | 放浪者    | wanderer           |         2827 |          177 |
-|     43 | ![gorou](./images/logo_gorou.png)                           | 五郎    | ゴロー    | gorou              |         2678 |          613 |
-|     44 | ![tighnari](./images/logo_tighnari.png)                     | 提纳里   | ティナリ   | tighnari           |         2546 |          200 |
-|     45 | ![razor](./images/logo_razor.png)                           | 雷泽    | レザー    | razor              |         2061 |          280 |
-|     46 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2053 |          450 |
-|     47 | ![thoma](./images/logo_thoma.png)                           | 托马    | トーマ    | thoma              |         2005 |          356 |
-|     48 | ![kuki_shinobu](./images/logo_kuki_shinobu.png)             | 久岐忍   | 久岐忍    | kuki_shinobu       |         1986 |          614 |
-|     49 | ![yun_jin](./images/logo_yun_jin.png)                       | 云堇    | 雲菫     | yun_jin            |         1973 |          371 |
-|     50 | ![traveler](./images/logo_traveler.png)                     | 旅行者   | 旅人     | traveler           |         1955 |          342 |
