@@ -1,6 +1,6 @@
 # Character Ranking List of Fgo [Safe]
 
-Fgo game character safe picture number ranking on pixiv, the top 65, the data is as of `2023-02-10 04:13:56.203330+00:00`.
+Fgo game character safe picture number ranking on pixiv, the top 65, the data is as of `2023-02-10 04:49:55.187293+00:00`.
 
 |   Rank | Face                                                                              | CN                  | JP                   | EN                            |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------------------|---------------------|----------------------|-------------------------------|--------------|--------------|
