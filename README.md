@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [R18]
 
-Genshin game character r18 picture number ranking on pixiv, the top 40, the data is as of `2023-02-10 04:17:13.922616+00:00`.
+Genshin game character r18 picture number ranking on pixiv, the top 40, the data is as of `2023-02-10 04:49:19.954393+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
