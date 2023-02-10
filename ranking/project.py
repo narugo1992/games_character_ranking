@@ -1,5 +1,4 @@
 import os
-from datetime import datetime
 
 from gchar.resources.pixiv import get_pixiv_illustration_count_by_character
 from tabulate import tabulate
@@ -29,9 +28,13 @@ def create_ranking_project(game: str, output_dir: str, count: int = 10, icon_siz
     with open(markdown_file, 'w', encoding='utf-8') as f:
         print(f'# Character Ranking List of {game_name.capitalize()} [{"Safe" if mode != "r18" else "R18"}]', file=f)
         print(file=f)
+        print('[![Last Updated](https://img.shields.io/endpoint?'
+              'url=https://gist.githubusercontent.com/narugo1992/'
+              '254442dea2e77cf46366df97f499242f/raw/data_last_update.json)]'
+              '(https://huggingface.co/datasets/deepghs/game_characters)', file=f)
+        print(file=f)
         print(f'{game_name.capitalize()} game character {"safe" if mode != "r18" else "r18"} '
-              f'picture number ranking on pixiv, the top {len(items)}, '
-              f'the data is as of `{datetime.now().astimezone()}`.', file=f)
+              f'picture number ranking on pixiv, the top {len(items)}. ', file=f)
         print(file=f)
 
         headers = ['Rank', 'Face', 'CN', 'JP', 'EN', 'All Images', 'R18 Images']
