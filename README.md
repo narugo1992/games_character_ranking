@@ -1,6 +1,6 @@
 # Character Ranking List of Genshin [R18]
 
-Genshin game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-10 01:09:40.864421+00:00`.
+Genshin game character r18 picture number ranking on pixiv, the top 40, the data is as of `2023-02-10 04:17:13.922616+00:00`.
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
@@ -44,13 +44,3 @@ Genshin game character r18 picture number ranking on pixiv, the top 50, the data
 |     38 | ![yanfei](./images/logo_yanfei.png)                         | 烟绯    | 煙緋     | yanfei             |         3468 |          525 |
 |     39 | ![xingqiu](./images/logo_xingqiu.png)                       | 行秋    | 行秋     | xingqiu            |         3744 |          450 |
 |     40 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2053 |          450 |
-|     41 | ![sayu](./images/logo_sayu.png)                             | 早柚    | 早柚     | sayu               |         1889 |          413 |
-|     42 | ![kamisato_ayato](./images/logo_kamisato_ayato.png)         | 神里绫人  | 神里綾人   | kamisato_ayato     |         3566 |          406 |
-|     43 | ![chongyun](./images/logo_chongyun.png)                     | 重云    | 重雲     | chongyun           |         3554 |          392 |
-|     44 | ![yun_jin](./images/logo_yun_jin.png)                       | 云堇    | 雲菫     | yun_jin            |         1973 |          371 |
-|     45 | ![thoma](./images/logo_thoma.png)                           | 托马    | トーマ    | thoma              |         2005 |          356 |
-|     46 | ![candace](./images/logo_candace.png)                       | 坎蒂丝   | キャンディス | candace            |          902 |          349 |
-|     47 | ![kaedehara_kazuha](./images/logo_kaedehara_kazuha.png)     | 枫原万叶  | 楓原万葉   | kaedehara_kazuha   |         5353 |          342 |
-|     48 | ![traveler](./images/logo_traveler.png)                     | 旅行者   | 旅人     | traveler           |         1955 |          342 |
-|     49 | ![bennett](./images/logo_bennett.png)                       | 班尼特   | ベネット   | bennett            |         1578 |          336 |
-|     50 | ![collei](./images/logo_collei.png)                         | 柯莱    | コレイ    | collei             |         1573 |          335 |
