@@ -1,8 +1,8 @@
-# Character Ranking List of Fgo [R18]
+# Character Ranking List of Fate/Grand Order [R18]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Fgo game character r18 picture number ranking on pixiv, the top 65. 
+Fate/grand order game character r18 picture number ranking on pixiv, the top 65 characters. 
 
 |   Rank | Face                                                                              | CN                  | JP                   | EN                            |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------------------|---------------------|----------------------|-------------------------------|--------------|--------------|
