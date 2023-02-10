@@ -1,6 +1,6 @@
 # Character Ranking List of Arknights [R18]
 
-Arknights game character r18 picture number ranking on pixiv, the top 50, the data is as of `2023-02-10 01:13:33.938960+00:00`.
+Arknights game character r18 picture number ranking on pixiv, the top 55, the data is as of `2023-02-10 04:14:25.063360+00:00`.
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|------|----------|-------------|--------------|--------------|
@@ -54,3 +54,8 @@ Arknights game character r18 picture number ranking on pixiv, the top 50, the da
 |     48 | ![vermeil](./images/logo_vermeil.png)         | 红云   | ヴァーミル    | vermeil     |          705 |          154 |
 |     49 | ![skyfire](./images/logo_skyfire.png)         | 天火   | スカイフレア   | skyfire     |          869 |          153 |
 |     50 | ![rosa](./images/logo_rosa.png)               | 早露   | ロサ       | rosa        |         1193 |          151 |
+|     51 | ![gavial](./images/logo_gavial.png)           | 嘉维尔  | ガヴィル     | gavial      |          879 |          144 |
+|     52 | ![dobermann](./images/logo_dobermann.png)     | 杜宾   | ドーベルマン   | dobermann   |          627 |          143 |
+|     53 | ![franka](./images/logo_franka.png)           | 芙兰卡  | フランカ     | franka      |          990 |          142 |
+|     54 | ![silverash](./images/logo_silverash.png)     | 银灰   | シルバーアッシュ | silverash   |         2532 |          140 |
+|     55 | ![warfarin](./images/logo_warfarin.png)       | 华法琳  | ワルファリン   | warfarin    |         1157 |          134 |
