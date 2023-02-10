@@ -156,7 +156,6 @@ jobs:
           command: |
             make clean
             python -m ranking relocal -m ${{ matrix.mode }} -n 5
-            tree .
       - name: Change Commit
         id: commit
         run: |
