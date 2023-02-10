@@ -113,7 +113,7 @@ def create_homepage_project(output_dir: str, games: Optional[List[str]] = None,
             print(f'## {_capitalize(game_title)}', file=f)
             print(file=f)
             print(f'Top rank list of {game_title} '
-                  f'( [Safe](https://github.com/narugo1992/games_character_ranking/tree/{game}_safe) '
+                  f'( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/{game}_safe) '
                   f'| [R18](https://github.com/narugo1992/games_character_ranking/tree/{game}_r18) )', file=f)
             print(file=f)
 

@@ -1207,11 +1207,9 @@ fabric.properties
 /extra
 /resource/yolort/*
 !/resource/yolort/Makefile
-/images
 /output
 /ckpt
 /ckpts
 /.benchmarks
 /onnxs
 /.temp
-/images
