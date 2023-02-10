@@ -1,6 +1,6 @@
 # Character Ranking List of Azurlane [Safe]
 
-Azurlane game character safe picture number ranking on pixiv, the top 115, the data is as of `2023-02-10 04:13:16.704680+00:00`.
+Azurlane game character safe picture number ranking on pixiv, the top 115, the data is as of `2023-02-10 04:48:36.307010+00:00`.
 
 |   Rank | Face                                                            | CN          | JP               | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|-------------|------------------|----------------------|--------------|--------------|
