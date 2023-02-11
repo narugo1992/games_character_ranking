@@ -6,18 +6,18 @@ Azur lane game character safe picture number ranking on pixiv, the top 115 chara
 
 |   Rank | Face                                                            | CN          | JP               | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|-------------|------------------|----------------------|--------------|--------------|
-|      1 | ![formidable](./images/logo_formidable.png)                     | 可畏          | フォーミダブル          | formidable           |         8312 |         2607 |
-|      2 | ![atago](./images/logo_atago.png)                               | 爱宕          | 愛宕               | atago                |         7701 |         2605 |
-|      3 | ![belfast](./images/logo_belfast.png)                           | 贝尔法斯特       | ベルファスト           | belfast              |         7545 |         2459 |
-|      4 | ![unicorn](./images/logo_unicorn.png)                           | 独角兽         | ユニコーン            | unicorn              |         7364 |         1643 |
+|      1 | ![formidable](./images/logo_formidable.png)                     | 可畏          | フォーミダブル          | formidable           |         8314 |         2608 |
+|      2 | ![atago](./images/logo_atago.png)                               | 爱宕          | 愛宕               | atago                |         7702 |         2605 |
+|      3 | ![belfast](./images/logo_belfast.png)                           | 贝尔法斯特       | ベルファスト           | belfast              |         7547 |         2459 |
+|      4 | ![unicorn](./images/logo_unicorn.png)                           | 独角兽         | ユニコーン            | unicorn              |         7364 |         1644 |
 |      5 | ![prinz_eugen](./images/logo_prinz_eugen.png)                   | 欧根亲王        | プリンツ・オイゲン        | prinz_eugen          |         7191 |         1844 |
-|      6 | ![taiho](./images/logo_taiho.png)                               | 大凤          | 大鳳               | taiho                |         7126 |         2750 |
-|      7 | ![sirius](./images/logo_sirius.png)                             | 天狼星         | シリアス             | sirius               |         6442 |         2175 |
+|      6 | ![taiho](./images/logo_taiho.png)                               | 大凤          | 大鳳               | taiho                |         7130 |         2750 |
+|      7 | ![sirius](./images/logo_sirius.png)                             | 天狼星         | シリアス             | sirius               |         6443 |         2176 |
 |      8 | ![enterprise](./images/logo_enterprise.png)                     | 进取          | エンタープライズ         | enterprise           |         6262 |          759 |
 |      9 | ![enterprise](./images/logo_enterprise_2.png)                   | 企业          | エンタープライズ         | enterprise           |         6258 |          759 |
 |     10 | ![laffey](./images/logo_laffey.png)                             | 拉菲          | ラフィー             | laffey               |         6244 |          881 |
 |     11 | ![ayanami](./images/logo_ayanami.png)                           | 绫波          | 綾波               | ayanami              |         6221 |         1166 |
-|     12 | ![bremerton](./images/logo_bremerton.png)                       | 布莱默顿        | ブレマートン           | bremerton            |         6071 |         2796 |
+|     12 | ![bremerton](./images/logo_bremerton.png)                       | 布莱默顿        | ブレマートン           | bremerton            |         6072 |         2796 |
 |     13 | ![illustrious](./images/logo_illustrious.png)                   | 光辉          | イラストリアス          | illustrious          |         5098 |         1727 |
 |     14 | ![akagi](./images/logo_akagi.png)                               | 赤城          | 赤城               | akagi                |         4946 |          967 |
 |     15 | ![kaga](./images/logo_kaga.png)                                 | 加贺          | 加賀               | kaga                 |         4805 |          767 |
@@ -53,18 +53,18 @@ Azur lane game character safe picture number ranking on pixiv, the top 115 chara
 |     45 | ![kawakaze](./images/logo_kawakaze.png)                         | 江风          | 江風               | kawakaze             |         1310 |           69 |
 |     46 | ![queen_elizabeth](./images/logo_queen_elizabeth.png)           | 伊丽莎白女王      | クイーン・エリザベス       | queen_elizabeth      |         1298 |          271 |
 |     47 | ![amagi](./images/logo_amagi.png)                               | 天城          | 天城               | amagi                |         1292 |          185 |
-|     48 | ![agir](./images/logo_agir.png)                                 | 埃吉尔         | エーギル             | agir                 |         1264 |          378 |
-|     49 | ![shimakaze](./images/logo_shimakaze.png)                       | 岛风          | 島風               | shimakaze            |         1242 |          307 |
+|     48 | ![agir](./images/logo_agir.png)                                 | 埃吉尔         | エーギル             | agir                 |         1263 |          377 |
+|     49 | ![shimakaze](./images/logo_shimakaze.png)                       | 岛风          | 島風               | shimakaze            |         1243 |          308 |
 |     50 | ![sheffield](./images/logo_sheffield.png)                       | 谢菲尔德        | シェフィールド          | sheffield            |         1228 |          322 |
 |     51 | ![shigure](./images/logo_shigure.png)                           | 时雨          | 時雨               | shigure              |         1227 |          169 |
 |     52 | ![new_jersey](./images/logo_new_jersey.png)                     | 新泽西         | ニュージャージー         | new_jersey           |         1219 |          343 |
-|     53 | ![tashkent](./images/logo_tashkent.png)                         | 塔什干         | タシュケント           | tashkent             |         1207 |          271 |
-|     54 | ![noshiro](./images/logo_noshiro.png)                           | 能代          | 能代               | noshiro              |         1207 |          210 |
+|     53 | ![noshiro](./images/logo_noshiro.png)                           | 能代          | 能代               | noshiro              |         1208 |          210 |
+|     54 | ![tashkent](./images/logo_tashkent.png)                         | 塔什干         | タシュケント           | tashkent             |         1207 |          271 |
 |     55 | ![vampire](./images/logo_vampire.png)                           | 吸血鬼         | ヴァンパイア           | vampire              |         1206 |          279 |
 |     56 | ![z46](./images/logo_z46.png)                                   | z46         |                  | z46                  |         1178 |          220 |
 |     57 | ![perseus](./images/logo_perseus.png)                           | 英仙座         | パーシュース           | perseus              |         1149 |          280 |
 |     58 | ![deutschland](./images/logo_deutschland.png)                   | 德意志         | ドイッチュラント         | deutschland          |         1146 |          230 |
-|     59 | ![pamiat_merkuria](./images/logo_pamiat_merkuria.png)           | 水星纪念        | パーミャチ・メルクーリヤ     | pamiat_merkuria      |         1134 |          275 |
+|     59 | ![pamiat_merkuria](./images/logo_pamiat_merkuria.png)           | 水星纪念        | パーミャチ・メルクーリヤ     | pamiat_merkuria      |         1135 |          275 |
 |     60 | ![admiral_hipper](./images/logo_admiral_hipper.png)             | 希佩尔海军上将     | アドミラル・ヒッパー       | admiral_hipper       |         1032 |          184 |
 |     61 | ![essex](./images/logo_essex.png)                               | 埃塞克斯        | エセックス            | essex                |         1010 |          128 |
 |     62 | ![ping_hai](./images/logo_ping_hai.png)                         | 平海          | 平海               | ping_hai             |          989 |          234 |
@@ -82,7 +82,7 @@ Azur lane game character safe picture number ranking on pixiv, the top 115 chara
 |     74 | ![ning_hai](./images/logo_ning_hai.png)                         | 宁海          | 寧海               | ning_hai             |          772 |          212 |
 |     75 | ![portland](./images/logo_portland.png)                         | 波特兰         | ポートランド           | portland             |          761 |          164 |
 |     76 | ![jean_bart](./images/logo_jean_bart.png)                       | 让·巴尔        | ジャン・バール          | jean_bart            |          741 |          111 |
-|     77 | ![dunkerque](./images/logo_dunkerque.png)                       | 敦刻尔克        | ダンケルク            | dunkerque            |          716 |          128 |
+|     77 | ![dunkerque](./images/logo_dunkerque.png)                       | 敦刻尔克        | ダンケルク            | dunkerque            |          719 |          131 |
 |     78 | ![san_diego](./images/logo_san_diego.png)                       | 圣地亚哥        | サンディエゴ           | san_diego            |          716 |           89 |
 |     79 | ![mikasa](./images/logo_mikasa.png)                             | 三笠          | 三笠               | mikasa               |          705 |           98 |
 |     80 | ![richelieu](./images/logo_richelieu.png)                       | 黎塞留         | リシュリュー           | richelieu            |          674 |          139 |
@@ -93,7 +93,7 @@ Azur lane game character safe picture number ranking on pixiv, the top 115 chara
 |     85 | ![azuma](./images/logo_azuma.png)                               | 吾妻          | 吾妻               | azuma                |          637 |          215 |
 |     86 | ![prinz_heinrich](./images/logo_prinz_heinrich.png)             | 海因里希亲王      | プリンツ・ハインリヒ       | prinz_heinrich       |          635 |          182 |
 |     87 | ![indianapolis](./images/logo_indianapolis.png)                 | 印第安纳波利斯     | インディアナポリス        | indianapolis         |          627 |          115 |
-|     88 | ![massachusetts](./images/logo_massachusetts.png)               | 马萨诸塞        | マサチューセッツ         | massachusetts        |          625 |          158 |
+|     88 | ![massachusetts](./images/logo_massachusetts.png)               | 马萨诸塞        | マサチューセッツ         | massachusetts        |          626 |          159 |
 |     89 | ![i19](./images/logo_i19.png)                                   | 伊19         | イ19              | i19                  |          612 |          189 |
 |     90 | ![fubuki](./images/logo_fubuki.png)                             | 吹雪          | 吹雪               | fubuki               |          610 |           78 |
 |     91 | ![mutsuki](./images/logo_mutsuki.png)                           | 睦月          | 睦月               | mutsuki              |          607 |          138 |
