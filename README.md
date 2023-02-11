@@ -6,16 +6,16 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 
 |   Rank | Face                                                            | CN          | JP               | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|-------------|------------------|----------------------|--------------|--------------|
-|      1 | ![bremerton](./images/logo_bremerton.png)                       | 布莱默顿        | ブレマートン           | bremerton            |         6071 |         2796 |
-|      2 | ![taiho](./images/logo_taiho.png)                               | 大凤          | 大鳳               | taiho                |         7126 |         2750 |
-|      3 | ![formidable](./images/logo_formidable.png)                     | 可畏          | フォーミダブル          | formidable           |         8312 |         2607 |
-|      4 | ![atago](./images/logo_atago.png)                               | 爱宕          | 愛宕               | atago                |         7701 |         2605 |
-|      5 | ![belfast](./images/logo_belfast.png)                           | 贝尔法斯特       | ベルファスト           | belfast              |         7545 |         2459 |
-|      6 | ![sirius](./images/logo_sirius.png)                             | 天狼星         | シリアス             | sirius               |         6442 |         2175 |
+|      1 | ![bremerton](./images/logo_bremerton.png)                       | 布莱默顿        | ブレマートン           | bremerton            |         6072 |         2796 |
+|      2 | ![taiho](./images/logo_taiho.png)                               | 大凤          | 大鳳               | taiho                |         7130 |         2750 |
+|      3 | ![formidable](./images/logo_formidable.png)                     | 可畏          | フォーミダブル          | formidable           |         8314 |         2608 |
+|      4 | ![atago](./images/logo_atago.png)                               | 爱宕          | 愛宕               | atago                |         7702 |         2605 |
+|      5 | ![belfast](./images/logo_belfast.png)                           | 贝尔法斯特       | ベルファスト           | belfast              |         7547 |         2459 |
+|      6 | ![sirius](./images/logo_sirius.png)                             | 天狼星         | シリアス             | sirius               |         6443 |         2176 |
 |      7 | ![prinz_eugen](./images/logo_prinz_eugen.png)                   | 欧根亲王        | プリンツ・オイゲン        | prinz_eugen          |         7191 |         1844 |
 |      8 | ![illustrious](./images/logo_illustrious.png)                   | 光辉          | イラストリアス          | illustrious          |         5098 |         1727 |
 |      9 | ![st_louis](./images/logo_st_louis.png)                         | 圣路易斯        | セントルイス           | st_louis             |         3348 |         1713 |
-|     10 | ![unicorn](./images/logo_unicorn.png)                           | 独角兽         | ユニコーン            | unicorn              |         7364 |         1643 |
+|     10 | ![unicorn](./images/logo_unicorn.png)                           | 独角兽         | ユニコーン            | unicorn              |         7364 |         1644 |
 |     11 | ![takao](./images/logo_takao.png)                               | 高雄          | 高雄               | takao                |         4276 |         1397 |
 |     12 | ![kashino](./images/logo_kashino.png)                           | 樫野          | 樫野               | kashino              |         2787 |         1256 |
 |     13 | ![ayanami](./images/logo_ayanami.png)                           | 绫波          | 綾波               | ayanami              |         6221 |         1166 |
@@ -39,7 +39,7 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     31 | ![zuikaku](./images/logo_zuikaku.png)                           | 瑞鹤          | 瑞鶴               | zuikaku              |         1795 |          436 |
 |     32 | ![akashi](./images/logo_akashi.png)                             | 明石          | 明石               | akashi               |         2169 |          398 |
 |     33 | ![eldridge](./images/logo_eldridge.png)                         | 埃尔德里奇       | エルドリッジ           | eldridge             |         1445 |          386 |
-|     34 | ![agir](./images/logo_agir.png)                                 | 埃吉尔         | エーギル             | agir                 |         1264 |          378 |
+|     34 | ![agir](./images/logo_agir.png)                                 | 埃吉尔         | エーギル             | agir                 |         1263 |          377 |
 |     35 | ![roon](./images/logo_roon.png)                                 | 罗恩          | ローン              | roon                 |         1782 |          365 |
 |     36 | ![shokaku](./images/logo_shokaku.png)                           | 翔鹤          | 翔鶴               | shokaku              |         1746 |          363 |
 |     37 | ![bismarck](./images/logo_bismarck.png)                         | 俾斯麦         | ビスマルク            | bismarck             |         1492 |          356 |
@@ -49,13 +49,13 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     41 | ![cheshire](./images/logo_cheshire.png)                         | 柴郡          | チェシャー            | cheshire             |         1898 |          330 |
 |     42 | ![graf_zeppelin](./images/logo_graf_zeppelin.png)               | 齐柏林伯爵       | グラーフ・ツェッペリン      | graf_zeppelin        |         1837 |          328 |
 |     43 | ![sheffield](./images/logo_sheffield.png)                       | 谢菲尔德        | シェフィールド          | sheffield            |         1228 |          322 |
-|     44 | ![shimakaze](./images/logo_shimakaze.png)                       | 岛风          | 島風               | shimakaze            |         1242 |          307 |
+|     44 | ![shimakaze](./images/logo_shimakaze.png)                       | 岛风          | 島風               | shimakaze            |         1243 |          308 |
 |     45 | ![cleveland](./images/logo_cleveland.png)                       | 克利夫兰        | クリーブランド          | cleveland            |         2102 |          298 |
 |     46 | ![friedrich_der_grosse](./images/logo_friedrich_der_grosse.png) | 腓特烈大帝       | フリードリヒ・デア・グローセ   | friedrich_der_grosse |          944 |          287 |
 |     47 | ![kisaragi](./images/logo_kisaragi.png)                         | 如月          | 如月               | kisaragi             |         1485 |          283 |
 |     48 | ![perseus](./images/logo_perseus.png)                           | 英仙座         | パーシュース           | perseus              |         1149 |          280 |
 |     49 | ![vampire](./images/logo_vampire.png)                           | 吸血鬼         | ヴァンパイア           | vampire              |         1206 |          279 |
-|     50 | ![pamiat_merkuria](./images/logo_pamiat_merkuria.png)           | 水星纪念        | パーミャチ・メルクーリヤ     | pamiat_merkuria      |         1134 |          275 |
+|     50 | ![pamiat_merkuria](./images/logo_pamiat_merkuria.png)           | 水星纪念        | パーミャチ・メルクーリヤ     | pamiat_merkuria      |         1135 |          275 |
 |     51 | ![queen_elizabeth](./images/logo_queen_elizabeth.png)           | 伊丽莎白女王      | クイーン・エリザベス       | queen_elizabeth      |         1298 |          271 |
 |     52 | ![tashkent](./images/logo_tashkent.png)                         | 塔什干         | タシュケント           | tashkent             |         1207 |          271 |
 |     53 | ![musashi](./images/logo_musashi.png)                           | 武藏          | 武蔵               | musashi              |          874 |          265 |
@@ -70,7 +70,7 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     62 | ![azuma](./images/logo_azuma.png)                               | 吾妻          | 吾妻               | azuma                |          637 |          215 |
 |     63 | ![yukikaze](./images/logo_yukikaze.png)                         | 雪风          | 雪風               | yukikaze             |         1447 |          214 |
 |     64 | ![ning_hai](./images/logo_ning_hai.png)                         | 宁海          | 寧海               | ning_hai             |          772 |          212 |
-|     65 | ![noshiro](./images/logo_noshiro.png)                           | 能代          | 能代               | noshiro              |         1207 |          210 |
+|     65 | ![noshiro](./images/logo_noshiro.png)                           | 能代          | 能代               | noshiro              |         1208 |          210 |
 |     66 | ![prince_of_wales](./images/logo_prince_of_wales.png)           | 威尔士亲王       | プリンス・オブ・ウェールズ    | prince_of_wales      |          649 |          208 |
 |     67 | ![marie_rose](./images/logo_marie_rose.png)                     | 玛莉萝丝        | マリー・ローズ          | marie_rose           |          397 |          199 |
 |     68 | ![chapayev](./images/logo_chapayev.png)                         | 恰巴耶夫        | チャパエフ            | chapayev             |          604 |          197 |
@@ -84,17 +84,17 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     76 | ![reno](./images/logo_reno.png)                                 | 里诺          | リノ               | reno                 |          643 |          170 |
 |     77 | ![shigure](./images/logo_shigure.png)                           | 时雨          | 時雨               | shigure              |         1227 |          169 |
 |     78 | ![portland](./images/logo_portland.png)                         | 波特兰         | ポートランド           | portland             |          761 |          164 |
-|     79 | ![massachusetts](./images/logo_massachusetts.png)               | 马萨诸塞        | マサチューセッツ         | massachusetts        |          625 |          158 |
+|     79 | ![massachusetts](./images/logo_massachusetts.png)               | 马萨诸塞        | マサチューセッツ         | massachusetts        |          626 |          159 |
 |     80 | ![tirpitz](./images/logo_tirpitz.png)                           | 提尔比茨        | ティルピッツ           | tirpitz              |          922 |          157 |
 |     81 | ![south_dakota](./images/logo_south_dakota.png)                 | 南达科他        | サウスダコタ           | south_dakota         |          491 |          155 |
 |     82 | ![rodney](./images/logo_rodney.png)                             | 罗德尼         | ロドニー             | rodney               |          463 |          152 |
 |     83 | ![suzuya](./images/logo_suzuya.png)                             | 铃谷          | 鈴谷               | suzuya               |          397 |          145 |
-|     84 | ![vittorio_veneto](./images/logo_vittorio_veneto.png)           | 维托里奥·维内托    | ヴィットリオ・ヴェネト      | vittorio_veneto      |          409 |          141 |
+|     84 | ![vittorio_veneto](./images/logo_vittorio_veneto.png)           | 维托里奥·维内托    | ヴィットリオ・ヴェネト      | vittorio_veneto      |          410 |          141 |
 |     85 | ![richelieu](./images/logo_richelieu.png)                       | 黎塞留         | リシュリュー           | richelieu            |          674 |          139 |
 |     86 | ![victorious](./images/logo_victorious.png)                     | 胜利          | ヴィクトリアス          | victorious           |          647 |          138 |
 |     87 | ![mutsuki](./images/logo_mutsuki.png)                           | 睦月          | 睦月               | mutsuki              |          607 |          138 |
-|     88 | ![essex](./images/logo_essex.png)                               | 埃塞克斯        | エセックス            | essex                |         1010 |          128 |
-|     89 | ![dunkerque](./images/logo_dunkerque.png)                       | 敦刻尔克        | ダンケルク            | dunkerque            |          716 |          128 |
+|     88 | ![dunkerque](./images/logo_dunkerque.png)                       | 敦刻尔克        | ダンケルク            | dunkerque            |          719 |          131 |
+|     89 | ![essex](./images/logo_essex.png)                               | 埃塞克斯        | エセックス            | essex                |         1010 |          128 |
 |     90 | ![saratoga](./images/logo_saratoga.png)                         | 萨拉托加        | サラトガ             | saratoga             |          925 |          125 |
 |     91 | ![long_island](./images/logo_long_island.png)                   | 长岛          | ロング・アイランド        | long_island          |          910 |          123 |
 |     92 | ![little_bel](./images/logo_little_bel.png)                     | 小贝法         | ベルちゃん            | little_bel           |          566 |          122 |
