@@ -6,24 +6,24 @@ Girls' front-line game character safe picture number ranking on pixiv, the top 8
 
 |   Rank | Face                                                | CN           | JP           | EN             |   All Images |   R18 Images |
 |--------|-----------------------------------------------------|--------------|--------------|----------------|--------------|--------------|
-|      1 | ![416](./images/logo_416.png)                       | HK416        | 416          | 416            |        11806 |         1628 |
-|      2 | ![ump45](./images/logo_ump45.png)                   | UMP45        | UMP45        | ump45          |         8077 |          858 |
+|      1 | ![416](./images/logo_416.png)                       | HK416        | 416          | 416            |        11806 |         1627 |
+|      2 | ![ump45](./images/logo_ump45.png)                   | UMP45        | UMP45        | ump45          |         8079 |          860 |
 |      3 | ![ump9](./images/logo_ump9.png)                     | UMP9         | UMP9         | ump9           |         4715 |          448 |
 |      4 | ![wa2000](./images/logo_wa2000.png)                 | WA2000       | WA2000       | wa2000         |         3987 |          516 |
 |      5 | ![gr_g11](./images/logo_gr_g11.png)                 | G11          | GrG11        | gr_g11         |         3655 |          273 |
 |      6 | ![m4_sopmod_ii](./images/logo_m4_sopmod_ii.png)     | M4SOPMODII   | M4SOPMODII   | m4_sopmod_ii   |         3098 |          251 |
-|      7 | ![m4a1](./images/logo_m4a1.png)                     | M4A1         | M4A1         | m4a1           |         3002 |          266 |
+|      7 | ![m4a1](./images/logo_m4a1.png)                     | M4A1         | M4A1         | m4a1           |         3003 |          266 |
 |      8 | ![ak_12](./images/logo_ak_12.png)                   | AK-12        | AK-12        | ak_12          |         2731 |          336 |
 |      9 | ![m200](./images/logo_m200.png)                     | M200         | M200         | m200           |         2730 |          308 |
-|     10 | ![springfield](./images/logo_springfield.png)       | 春田           | スプリングフィールド   | springfield    |         2703 |          399 |
+|     10 | ![springfield](./images/logo_springfield.png)       | 春田           | スプリングフィールド   | springfield    |         2704 |          399 |
 |     11 | ![m16a1](./images/logo_m16a1.png)                   | M16A1        | M16A1        | m16a1          |         2627 |          198 |
 |     12 | ![an_94](./images/logo_an_94.png)                   | AN-94        | AN-94        | an_94          |         2297 |          215 |
 |     13 | ![ro635](./images/logo_ro635.png)                   | RO635        | RO635        | ro635          |         1986 |          259 |
 |     14 | ![suomi](./images/logo_suomi.png)                   | 索米           | スオミ          | suomi          |         1813 |          281 |
 |     15 | ![gr_g41](./images/logo_gr_g41.png)                 | G41          | GrG41        | gr_g41         |         1658 |          260 |
 |     16 | ![st_ar_15](./images/logo_st_ar_15.png)             | STAR-15      | STAR-15      | st_ar_15       |         1632 |          133 |
-|     17 | ![aa_12](./images/logo_aa_12.png)                   | AA-12        | AA-12        | aa_12          |         1488 |          142 |
-|     18 | ![gr_g36](./images/logo_gr_g36.png)                 | G36          | GrG36        | gr_g36         |         1455 |          143 |
+|     17 | ![aa_12](./images/logo_aa_12.png)                   | AA-12        | AA-12        | aa_12          |         1489 |          142 |
+|     18 | ![gr_g36](./images/logo_gr_g36.png)                 | G36          | GrG36        | gr_g36         |         1456 |          143 |
 |     19 | ![negev](./images/logo_negev.png)                   | 内格夫          | ネゲヴ          | negev          |         1374 |          183 |
 |     20 | ![9a_91](./images/logo_9a_91.png)                   | 9A-91        | 9A-91        | 9a_91          |         1261 |          224 |
 |     21 | ![spas_12](./images/logo_spas_12.png)               | SPAS-12      | SPAS-12      | spas_12        |         1199 |          215 |
@@ -37,10 +37,10 @@ Girls' front-line game character safe picture number ranking on pixiv, the top 8
 |     29 | ![mp40](./images/logo_mp40.png)                     | MP40         | MP40         | mp40           |          954 |          135 |
 |     30 | ![m14](./images/logo_m14.png)                       | M14          | M14          | m14            |          949 |           69 |
 |     31 | ![am_rfb](./images/logo_am_rfb.png)                 | RFB          | AmRFB        | am_rfb         |          935 |           77 |
-|     32 | ![vsk_94](./images/logo_vsk_94.png)                 | VSK-94       | VSK-94       | vsk_94         |          920 |          305 |
+|     32 | ![vsk_94](./images/logo_vsk_94.png)                 | VSK-94       | VSK-94       | vsk_94         |          919 |          305 |
 |     33 | ![ump40](./images/logo_ump40.png)                   | UMP40        | UMP40        | ump40          |          904 |           72 |
 |     34 | ![five_seven](./images/logo_five_seven.png)         | Five-seveN   | Five-seven   | five_seven     |          869 |          144 |
-|     35 | ![ots_14](./images/logo_ots_14.png)                 | OTs-14       | OTs-14       | ots_14         |          835 |          114 |
+|     35 | ![ots_14](./images/logo_ots_14.png)                 | OTs-14       | OTs-14       | ots_14         |          834 |          114 |
 |     36 | ![iws_2000](./images/logo_iws_2000.png)             | IWS2000      | IWS2000      | iws_2000       |          830 |           71 |
 |     37 | ![welrod_mkii](./images/logo_welrod_mkii.png)       | 维尔德MkⅡ       | ウェルロッドMkII   | welrod_mkii    |          820 |          111 |
 |     38 | ![m950a](./images/logo_m950a.png)                   | M950A        | M950A        | m950a          |          813 |           72 |
@@ -59,10 +59,10 @@ Girls' front-line game character safe picture number ranking on pixiv, the top 8
 |     51 | ![type97](./images/logo_type97.png)                 | 97式          | 97式          | type97         |          581 |          144 |
 |     52 | ![s_a_t_8](./images/logo_s_a_t_8.png)               | S.A.T.8      | S.A.T.8      | s_a_t_8        |          578 |           37 |
 |     53 | ![ribeyrolles](./images/logo_ribeyrolles.png)       | 利贝罗勒         | リベロール        | ribeyrolles    |          577 |           36 |
-|     54 | ![p90](./images/logo_p90.png)                       | P90          | P90          | p90            |          571 |           66 |
+|     54 | ![p90](./images/logo_p90.png)                       | P90          | P90          | p90            |          572 |           66 |
 |     55 | ![gr_g36c](./images/logo_gr_g36c.png)               | G36C         | GrG36c       | gr_g36c        |          564 |           82 |
 |     56 | ![tokarev](./images/logo_tokarev.png)               | 托卡列夫         | トカレフ         | tokarev        |          525 |           65 |
-|     57 | ![gr_mp7](./images/logo_gr_mp7.png)                 | MP7          | GrMP7        | gr_mp7         |          523 |           51 |
+|     57 | ![gr_mp7](./images/logo_gr_mp7.png)                 | MP7          | GrMP7        | gr_mp7         |          525 |           51 |
 |     58 | ![c_ms](./images/logo_c_ms.png)                     | C-MS         | C-MS         | c_ms           |          493 |           34 |
 |     59 | ![aug](./images/logo_aug.png)                       | AUG          | AUG          | aug            |          489 |           35 |
 |     60 | ![gr_mp5](./images/logo_gr_mp5.png)                 | MP5          | GrMP5        | gr_mp5         |          488 |           48 |
@@ -79,7 +79,7 @@ Girls' front-line game character safe picture number ranking on pixiv, the top 8
 |     71 | ![super_shorty](./images/logo_super_shorty.png)     | Super-Shorty | Super-Shorty | super_shorty   |          400 |           47 |
 |     72 | ![m37](./images/logo_m37.png)                       | M37          | M37          | m37            |          398 |           87 |
 |     73 | ![super_sass](./images/logo_super_sass.png)         | SuperSASS    | SuperSASS    | super_sass     |          349 |           32 |
-|     74 | ![lee_enfield](./images/logo_lee_enfield.png)       | 李-恩菲尔德       | リー・エンフィールド   | lee_enfield    |          338 |           45 |
+|     74 | ![lee_enfield](./images/logo_lee_enfield.png)       | 李-恩菲尔德       | リー・エンフィールド   | lee_enfield    |          339 |           46 |
 |     75 | ![ppk](./images/logo_ppk.png)                       | PPK          | PPK          | ppk            |          337 |           39 |
 |     76 | ![p7](./images/logo_p7.png)                         | P7           | P7           | p7             |          336 |           32 |
 |     77 | ![carcano_m91_38](./images/logo_carcano_m91_38.png) | 卡尔卡诺M91/38   | カルカノM91/38   | carcano_m91_38 |          335 |           34 |
