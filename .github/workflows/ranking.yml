@@ -161,7 +161,8 @@ jobs:
         run: |
           git config user.name 'narugo1992'
           git config user.email 'narugo@126.com'
-          git diff-index --quiet HEAD || (git add -A && git commit -a -m "dev(narugo): auto sync $(date -R)")
+          git add -A
+          git diff-index --quiet HEAD || git commit -a -m "dev(narugo): auto sync $(date -R)"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
