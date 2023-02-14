@@ -48,11 +48,11 @@ Top rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32456 |         8951 |
-|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24849 |         8272 |
-|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17210 |         4776 |
-|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14000 |         4445 |
-|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15820 |         4208 |
+|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32497 |         8958 |
+|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24872 |         8279 |
+|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17226 |         4781 |
+|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14006 |         4449 |
+|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15840 |         4211 |
 
 ## Girls' Front-Line
 
