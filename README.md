@@ -12,11 +12,11 @@ Top rank list of arknights ( Full Version: [Safe](https://github.com/narugo1992/
 
 |   Rank | Face                                  | CN   | JP    | EN      |   All Images |   R18 Images |
 |--------|---------------------------------------|------|-------|---------|--------------|--------------|
-|      1 | ![w](./images/logo_w.png)             | w    | w     | w       |         7669 |         1113 |
-|      2 | ![amiya](./images/logo_amiya.png)     | 阿米娅  | アーミヤ  | amiya   |        13354 |          963 |
-|      3 | ![texas](./images/logo_texas.png)     | 德克萨斯 | テキサス  | texas   |        10393 |          875 |
-|      4 | ![suzuran](./images/logo_suzuran.png) | 铃兰   | スズラン  | suzuran |         4398 |          825 |
-|      5 | ![mudrock](./images/logo_mudrock.png) | 泥岩   | マドロック | mudrock |         4865 |          751 |
+|      1 | ![w](./images/logo_w.png)             | w    | w     | w       |         7686 |         1122 |
+|      2 | ![amiya](./images/logo_amiya.png)     | 阿米娅  | アーミヤ  | amiya   |        13376 |          966 |
+|      3 | ![texas](./images/logo_texas.png)     | 德克萨斯 | テキサス  | texas   |        10410 |          878 |
+|      4 | ![suzuran](./images/logo_suzuran.png) | 铃兰   | スズラン  | suzuran |         4406 |          827 |
+|      5 | ![mudrock](./images/logo_mudrock.png) | 泥岩   | マドロック | mudrock |         4871 |          753 |
 
 ## Fate/Grand Order
 
@@ -24,11 +24,11 @@ Top rank list of fate/grand order ( Full Version: [Safe](https://github.com/naru
 
 |   Rank | Face                                                        | CN         | JP            | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|------------|---------------|--------------------|--------------|--------------|
-|      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)       | 玛修·基列莱特    | マシュ・キリエライト    | mash_kyrielight    |        29284 |         6552 |
-|      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)     | 阿尔托莉雅·潘德拉贡 | アルトリア・ペンドラゴン  | altria_pendragon   |        18724 |         4111 |
-|      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png) | 源赖光        | 源頼光           | minamoto_no_raikou |         9205 |         4061 |
-|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21160 |         3529 |
-|      5 | ![astolfo](./images/logo_astolfo.png)                       | 阿斯托尔福      | アストルフォ        | astolfo            |        10196 |         2945 |
+|      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)       | 玛修·基列莱特    | マシュ・キリエライト    | mash_kyrielight    |        29295 |         6556 |
+|      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)     | 阿尔托莉雅·潘德拉贡 | アルトリア・ペンドラゴン  | altria_pendragon   |        18731 |         4113 |
+|      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png) | 源赖光        | 源頼光           | minamoto_no_raikou |         9213 |         4069 |
+|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21172 |         3533 |
+|      5 | ![astolfo](./images/logo_astolfo.png)                       | 阿斯托尔福      | アストルフォ        | astolfo            |        10196 |         2946 |
 
 ## Azur Lane
 
@@ -60,9 +60,9 @@ Top rank list of girls' front-line ( Full Version: [Safe](https://github.com/nar
 
 |   Rank | Face                                          | CN     | JP         | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|--------|------------|-------------|--------------|--------------|
-|      1 | ![416](./images/logo_416.png)                 | HK416  | 416        | 416         |        11831 |         1629 |
-|      2 | ![ump45](./images/logo_ump45.png)             | UMP45  | UMP45      | ump45       |         8091 |          862 |
-|      3 | ![wa2000](./images/logo_wa2000.png)           | WA2000 | WA2000     | wa2000      |         3989 |          515 |
-|      4 | ![ump9](./images/logo_ump9.png)               | UMP9   | UMP9       | ump9        |         4721 |          448 |
-|      5 | ![springfield](./images/logo_springfield.png) | 春田     | スプリングフィールド | springfield |         2706 |          399 |
+|      1 | ![416](./images/logo_416.png)                 | HK416  | 416        | 416         |        11852 |         1637 |
+|      2 | ![ump45](./images/logo_ump45.png)             | UMP45  | UMP45      | ump45       |         8099 |          865 |
+|      3 | ![wa2000](./images/logo_wa2000.png)           | WA2000 | WA2000     | wa2000      |         3993 |          516 |
+|      4 | ![ump9](./images/logo_ump9.png)               | UMP9   | UMP9       | ump9        |         4729 |          452 |
+|      5 | ![springfield](./images/logo_springfield.png) | 春田     | スプリングフィールド | springfield |         2707 |          399 |
 
