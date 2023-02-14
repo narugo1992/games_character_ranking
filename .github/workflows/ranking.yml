@@ -6,8 +6,11 @@ permissions:
 on:
   #  push:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - data-refreshed
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 4 * * *'
 
 jobs:
   data_sync:
