@@ -12,11 +12,11 @@ Top rank list of arknights ( Full Version: [Safe](https://github.com/narugo1992/
 
 |   Rank | Face                                  | CN   | JP    | EN      |   All Images |   R18 Images |
 |--------|---------------------------------------|------|-------|---------|--------------|--------------|
-|      1 | ![w](./images/logo_w.png)             | w    | w     | w       |         7665 |         1112 |
-|      2 | ![amiya](./images/logo_amiya.png)     | 阿米娅  | アーミヤ  | amiya   |        13344 |          961 |
-|      3 | ![texas](./images/logo_texas.png)     | 德克萨斯 | テキサス  | texas   |        10385 |          871 |
-|      4 | ![suzuran](./images/logo_suzuran.png) | 铃兰   | スズラン  | suzuran |         4395 |          825 |
-|      5 | ![mudrock](./images/logo_mudrock.png) | 泥岩   | マドロック | mudrock |         4862 |          751 |
+|      1 | ![w](./images/logo_w.png)             | w    | w     | w       |         7669 |         1113 |
+|      2 | ![amiya](./images/logo_amiya.png)     | 阿米娅  | アーミヤ  | amiya   |        13354 |          963 |
+|      3 | ![texas](./images/logo_texas.png)     | 德克萨斯 | テキサス  | texas   |        10393 |          875 |
+|      4 | ![suzuran](./images/logo_suzuran.png) | 铃兰   | スズラン  | suzuran |         4398 |          825 |
+|      5 | ![mudrock](./images/logo_mudrock.png) | 泥岩   | マドロック | mudrock |         4865 |          751 |
 
 ## Fate/Grand Order
 
@@ -24,11 +24,11 @@ Top rank list of fate/grand order ( Full Version: [Safe](https://github.com/naru
 
 |   Rank | Face                                                        | CN         | JP            | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|------------|---------------|--------------------|--------------|--------------|
-|      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)       | 玛修·基列莱特    | マシュ・キリエライト    | mash_kyrielight    |        29276 |         6550 |
-|      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)     | 阿尔托莉雅·潘德拉贡 | アルトリア・ペンドラゴン  | altria_pendragon   |        18708 |         4105 |
-|      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png) | 源赖光        | 源頼光           | minamoto_no_raikou |         9203 |         4060 |
-|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21151 |         3525 |
-|      5 | ![astolfo](./images/logo_astolfo.png)                       | 阿斯托尔福      | アストルフォ        | astolfo            |        10195 |         2947 |
+|      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)       | 玛修·基列莱特    | マシュ・キリエライト    | mash_kyrielight    |        29284 |         6552 |
+|      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)     | 阿尔托莉雅·潘德拉贡 | アルトリア・ペンドラゴン  | altria_pendragon   |        18724 |         4111 |
+|      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png) | 源赖光        | 源頼光           | minamoto_no_raikou |         9205 |         4061 |
+|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21160 |         3529 |
+|      5 | ![astolfo](./images/logo_astolfo.png)                       | 阿斯托尔福      | アストルフォ        | astolfo            |        10196 |         2945 |
 
 ## Azur Lane
 
@@ -48,11 +48,11 @@ Top rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32324 |         8912 |
-|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24741 |         8226 |
-|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17162 |         4760 |
-|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        13969 |         4434 |
-|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15780 |         4203 |
+|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32363 |         8922 |
+|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24803 |         8253 |
+|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17194 |         4772 |
+|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        13988 |         4441 |
+|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15801 |         4204 |
 
 ## Girls' Front-Line
 
