@@ -8,6 +8,7 @@ from gchar.games.azurlane import Character as AzurLaneCharacter
 from gchar.games.fgo import Character as FateGrandOrderCharacter
 from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
+from gchar.games.neuralcloud import Character as NeuralCloudCharacter
 
 from .games import GAME_NAMES
 from .project import create_ranking_project, create_homepage_project
@@ -22,6 +23,7 @@ GAME_CLASSES = {
     'genshin': GenshinImpactCharacter,
     'azurlane': AzurLaneCharacter,
     'girlsfrontline': GirlsFrontLineCharacter,
+    'neuralcloud': NeuralCloudCharacter,
 }
 
 
