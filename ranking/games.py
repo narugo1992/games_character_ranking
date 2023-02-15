@@ -10,6 +10,7 @@ from gchar.games.base import Character, Skin
 from gchar.games.fgo import Character as FateGrandOrderCharacter
 from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
+from gchar.games.neuralcloud import Character as NeuralCloudCharacter
 from requests.exceptions import RequestException
 
 _GAMES = [
@@ -18,6 +19,7 @@ _GAMES = [
     (AzurLaneCharacter, 'azurlane', 'azur lane'),
     (GenshinImpactCharacter, 'genshin', 'genshin impact'),
     (GirlsFrontLineCharacter, 'girlsfrontline', 'girls\' front-line'),
+    (NeuralCloudCharacter, 'neuralcloud', 'project neural cloud'),
 ]
 
 GAME_NAMES = [name for _, name, _ in _GAMES]
@@ -60,10 +62,17 @@ def _yield_skin_fgo(ch: FateGrandOrderCharacter) -> Iterator[Skin]:
             yield skin
 
 
+def _yield_skin_neuralcloud(ch: NeuralCloudCharacter) -> Iterator[Skin]:
+    for skin in ch.skins:
+        if '愚' not in skin.name and 'ZOO' not in skin.name:
+            yield skin
+
+
 _SKIN_YIELDERS = {
     'girlsfrontline': _yield_skin_girlsfrontline,
     'arknights': _yield_skin_arknights,
     'fgo': _yield_skin_fgo,
+    'neuralcloud': _yield_skin_neuralcloud,
 }
 
 

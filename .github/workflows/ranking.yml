@@ -25,6 +25,7 @@ jobs:
           - 'azurlane'
           - 'girlsfrontline'
           - 'genshin'
+          - 'neuralcloud'
         mode:
           - 'r18'
           - 'safe'
