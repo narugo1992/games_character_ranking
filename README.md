@@ -66,3 +66,15 @@ Top rank list of girls' front-line ( Full Version: [Safe](https://github.com/nar
 |      4 | ![ump9](./images/logo_ump9.png)               | UMP9   | UMP9       | ump9        |         4729 |          452 |
 |      5 | ![springfield](./images/logo_springfield.png) | 春田     | スプリングフィールド | springfield |         2707 |          399 |
 
+## Project Neural Cloud
+
+Top rank list of project neural cloud ( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/neuralcloud_safe) | [R18](https://github.com/narugo1992/games_character_ranking/tree/neuralcloud_r18) )
+
+|   Rank | Face                                        | CN   | JP   | EN         |   All Images |   R18 Images |
+|--------|---------------------------------------------|------|------|------------|--------------|--------------|
+|      1 | ![florence](./images/logo_florence.png)     | 芙洛伦  |      | florence   |          150 |           24 |
+|      2 | ![hubble](./images/logo_hubble.png)         | 赫波   |      | hubble     |           42 |            9 |
+|      3 | ![delacey](./images/logo_delacey.png)       | 德菈赛  |      | delacey    |           40 |            9 |
+|      4 | ![kuro](./images/logo_kuro.png)             | 卡萝   |      | kuro       |           54 |            8 |
+|      5 | ![persicaria](./images/logo_persicaria.png) | 帕斯卡  |      | persicaria |           58 |            6 |
+
