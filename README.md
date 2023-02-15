@@ -36,11 +36,11 @@ Top rank list of azur lane ( Full Version: [Safe](https://github.com/narugo1992/
 
 |   Rank | Face                                        | CN    | JP      | EN         |   All Images |   R18 Images |
 |--------|---------------------------------------------|-------|---------|------------|--------------|--------------|
-|      1 | ![bremerton](./images/logo_bremerton.png)   | 布莱默顿  | ブレマートン  | bremerton  |         6081 |         2797 |
-|      2 | ![taiho](./images/logo_taiho.png)           | 大凤    | 大鳳      | taiho      |         7149 |         2760 |
-|      3 | ![formidable](./images/logo_formidable.png) | 可畏    | フォーミダブル | formidable |         8323 |         2613 |
-|      4 | ![atago](./images/logo_atago.png)           | 爱宕    | 愛宕      | atago      |         7706 |         2606 |
-|      5 | ![belfast](./images/logo_belfast.png)       | 贝尔法斯特 | ベルファスト  | belfast    |         7555 |         2464 |
+|      1 | ![bremerton](./images/logo_bremerton.png)   | 布莱默顿  | ブレマートン  | bremerton  |         6108 |         2804 |
+|      2 | ![taiho](./images/logo_taiho.png)           | 大凤    | 大鳳      | taiho      |         7169 |         2759 |
+|      3 | ![formidable](./images/logo_formidable.png) | 可畏    | フォーミダブル | formidable |         8346 |         2620 |
+|      4 | ![atago](./images/logo_atago.png)           | 爱宕    | 愛宕      | atago      |         7727 |         2615 |
+|      5 | ![belfast](./images/logo_belfast.png)       | 贝尔法斯特 | ベルファスト  | belfast    |         7570 |         2469 |
 
 ## Genshin Impact
 
@@ -48,11 +48,11 @@ Top rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32497 |         8958 |
-|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24872 |         8279 |
-|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17226 |         4781 |
-|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14006 |         4449 |
-|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15840 |         4211 |
+|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32586 |         8995 |
+|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24964 |         8313 |
+|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17303 |         4812 |
+|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14034 |         4465 |
+|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15856 |         4208 |
 
 ## Girls' Front-Line
 
@@ -73,8 +73,8 @@ Top rank list of project neural cloud ( Full Version: [Safe](https://github.com/
 |   Rank | Face                                        | CN   | JP   | EN         |   All Images |   R18 Images |
 |--------|---------------------------------------------|------|------|------------|--------------|--------------|
 |      1 | ![florence](./images/logo_florence.png)     | 芙洛伦  |      | florence   |          150 |           24 |
-|      2 | ![hubble](./images/logo_hubble.png)         | 赫波   |      | hubble     |           42 |            9 |
-|      3 | ![delacey](./images/logo_delacey.png)       | 德菈赛  |      | delacey    |           40 |            9 |
-|      4 | ![kuro](./images/logo_kuro.png)             | 卡萝   |      | kuro       |           54 |            8 |
+|      2 | ![delacey](./images/logo_delacey.png)       | 德菈赛  |      | delacey    |           41 |           10 |
+|      3 | ![kuro](./images/logo_kuro.png)             | 卡萝   |      | kuro       |           55 |            9 |
+|      4 | ![hubble](./images/logo_hubble.png)         | 赫波   |      | hubble     |           42 |            9 |
 |      5 | ![persicaria](./images/logo_persicaria.png) | 帕斯卡  |      | persicaria |           58 |            6 |
 
