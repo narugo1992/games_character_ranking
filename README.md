@@ -8,11 +8,11 @@ Project neural cloud game character safe picture number ranking on pixiv, the to
 |--------|-------------------------------------------------|-------|------|--------------|--------------|--------------|
 |      1 | ![florence](./images/logo_florence.png)         | 芙洛伦   |      | florence     |          150 |           24 |
 |      2 | ![persicaria](./images/logo_persicaria.png)     | 帕斯卡   |      | persicaria   |           58 |            6 |
-|      3 | ![kuro](./images/logo_kuro.png)                 | 卡萝    |      | kuro         |           54 |            8 |
+|      3 | ![kuro](./images/logo_kuro.png)                 | 卡萝    |      | kuro         |           55 |            9 |
 |      4 | ![nanaka](./images/logo_nanaka.png)             | 七花    |      | nanaka       |           53 |            3 |
 |      5 | ![clukay](./images/logo_clukay.png)             | 可露凯   |      | clukay       |           45 |            4 |
 |      6 | ![hubble](./images/logo_hubble.png)             | 赫波    |      | hubble       |           42 |            9 |
-|      7 | ![delacey](./images/logo_delacey.png)           | 德菈赛   |      | delacey      |           40 |            9 |
+|      7 | ![delacey](./images/logo_delacey.png)           | 德菈赛   |      | delacey      |           41 |           10 |
 |      8 | ![daiyan](./images/logo_daiyan.png)             | 黛烟    |      | daiyan       |           40 |            4 |
 |      9 | ![croque](./images/logo_croque.png)             | 克罗琦   |      | croque       |           35 |            2 |
 |     10 | ![centaureissi](./images/logo_centaureissi.png) | 桑朵莱希  |      | centaureissi |           32 |            4 |
@@ -22,12 +22,12 @@ Project neural cloud game character safe picture number ranking on pixiv, the to
 |     14 | ![banxsy](./images/logo_banxsy.png)             | 坂口希   |      | banxsy       |           26 |            2 |
 |     15 | ![vee](./images/logo_vee.png)                   | 薇     |      | vee          |           22 |            0 |
 |     16 | ![imhotep](./images/logo_imhotep.png)           | 伊姆赫特  |      | imhotep      |           19 |            5 |
-|     17 | ![choco](./images/logo_choco.png)               | 巧可    |      | choco        |           18 |            2 |
+|     17 | ![choco](./images/logo_choco.png)               | 巧可    |      | choco        |           19 |            3 |
 |     18 | ![betty](./images/logo_betty.png)               | 贝蒂    |      | betty        |           18 |            2 |
 |     19 | ![panakeia](./images/logo_panakeia.png)         | 帕那刻亚  |      | panakeia     |           17 |            1 |
-|     20 | ![willow](./images/logo_willow.png)             | 薇洛儿   |      | willow       |           16 |            5 |
-|     21 | ![souchun](./images/logo_souchun.png)           | 薮春    |      | souchun      |           16 |            5 |
-|     22 | ![evelyn](./images/logo_evelyn.png)             | 伊芙琳   |      | evelyn       |           16 |            0 |
+|     20 | ![evelyn](./images/logo_evelyn.png)             | 伊芙琳   |      | evelyn       |           17 |            0 |
+|     21 | ![willow](./images/logo_willow.png)             | 薇洛儿   |      | willow       |           16 |            5 |
+|     22 | ![souchun](./images/logo_souchun.png)           | 薮春    |      | souchun      |           16 |            5 |
 |     23 | ![sol](./images/logo_sol.png)                   | 苏尔    |      | sol          |           15 |            1 |
 |     24 | ![magnhilda](./images/logo_magnhilda.png)       | 玛吉西尔达 |      | magnhilda    |           13 |            0 |
 |     25 | ![python](./images/logo_python.png)             | 派森    |      | python       |           12 |            2 |
