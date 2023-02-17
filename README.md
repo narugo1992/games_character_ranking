@@ -9,7 +9,7 @@ Project neural cloud game character safe picture number ranking on pixiv, the to
 |      1 | ![florence](./images/logo_florence.png)         | 芙洛伦   |      | florence     |          150 |           24 |
 |      2 | ![persicaria](./images/logo_persicaria.png)     | 帕斯卡   |      | persicaria   |           58 |            6 |
 |      3 | ![kuro](./images/logo_kuro.png)                 | 卡萝    |      | kuro         |           55 |            9 |
-|      4 | ![nanaka](./images/logo_nanaka.png)             | 七花    |      | nanaka       |           53 |            3 |
+|      4 | ![nanaka](./images/logo_nanaka.png)             | 七花    |      | nanaka       |           54 |            4 |
 |      5 | ![clukay](./images/logo_clukay.png)             | 可露凯   |      | clukay       |           45 |            4 |
 |      6 | ![hubble](./images/logo_hubble.png)             | 赫波    |      | hubble       |           42 |            9 |
 |      7 | ![delacey](./images/logo_delacey.png)           | 德菈赛   |      | delacey      |           41 |           10 |
@@ -29,7 +29,7 @@ Project neural cloud game character safe picture number ranking on pixiv, the to
 |     21 | ![willow](./images/logo_willow.png)             | 薇洛儿   |      | willow       |           16 |            5 |
 |     22 | ![souchun](./images/logo_souchun.png)           | 薮春    |      | souchun      |           16 |            5 |
 |     23 | ![sol](./images/logo_sol.png)                   | 苏尔    |      | sol          |           15 |            1 |
-|     24 | ![magnhilda](./images/logo_magnhilda.png)       | 玛吉西尔达 |      | magnhilda    |           13 |            0 |
+|     24 | ![magnhilda](./images/logo_magnhilda.png)       | 玛吉西尔达 |      | magnhilda    |           15 |            0 |
 |     25 | ![python](./images/logo_python.png)             | 派森    |      | python       |           12 |            2 |
 |     26 | ![chanzhi](./images/logo_chanzhi.png)           | 缠枝    |      | chanzhi      |           12 |            0 |
 |     27 | ![yanny](./images/logo_yanny.png)               | 扬尼    |      | yanny        |           11 |            3 |
