@@ -14,10 +14,10 @@ Project neural cloud game character r18 picture number ranking on pixiv, the top
 |      6 | ![imhotep](./images/logo_imhotep.png)           | 伊姆赫特  |      | imhotep      |           19 |            5 |
 |      7 | ![willow](./images/logo_willow.png)             | 薇洛儿   |      | willow       |           16 |            5 |
 |      8 | ![souchun](./images/logo_souchun.png)           | 薮春    |      | souchun      |           16 |            5 |
-|      9 | ![clukay](./images/logo_clukay.png)             | 可露凯   |      | clukay       |           45 |            4 |
-|     10 | ![daiyan](./images/logo_daiyan.png)             | 黛烟    |      | daiyan       |           40 |            4 |
-|     11 | ![centaureissi](./images/logo_centaureissi.png) | 桑朵莱希  |      | centaureissi |           32 |            4 |
-|     12 | ![nanaka](./images/logo_nanaka.png)             | 七花    |      | nanaka       |           53 |            3 |
+|      9 | ![nanaka](./images/logo_nanaka.png)             | 七花    |      | nanaka       |           54 |            4 |
+|     10 | ![clukay](./images/logo_clukay.png)             | 可露凯   |      | clukay       |           45 |            4 |
+|     11 | ![daiyan](./images/logo_daiyan.png)             | 黛烟    |      | daiyan       |           40 |            4 |
+|     12 | ![centaureissi](./images/logo_centaureissi.png) | 桑朵莱希  |      | centaureissi |           32 |            4 |
 |     13 | ![aki](./images/logo_aki.png)                   | 秋     |      | aki          |           30 |            3 |
 |     14 | ![choco](./images/logo_choco.png)               | 巧可    |      | choco        |           19 |            3 |
 |     15 | ![yanny](./images/logo_yanny.png)               | 扬尼    |      | yanny        |           11 |            3 |
@@ -41,7 +41,7 @@ Project neural cloud game character r18 picture number ranking on pixiv, the top
 |     33 | ![ksenia](./images/logo_ksenia.png)             | 科谢尼娅  |      | ksenia       |            2 |            1 |
 |     34 | ![vee](./images/logo_vee.png)                   | 薇     |      | vee          |           22 |            0 |
 |     35 | ![evelyn](./images/logo_evelyn.png)             | 伊芙琳   |      | evelyn       |           17 |            0 |
-|     36 | ![magnhilda](./images/logo_magnhilda.png)       | 玛吉西尔达 |      | magnhilda    |           13 |            0 |
+|     36 | ![magnhilda](./images/logo_magnhilda.png)       | 玛吉西尔达 |      | magnhilda    |           15 |            0 |
 |     37 | ![chanzhi](./images/logo_chanzhi.png)           | 缠枝    |      | chanzhi      |           12 |            0 |
 |     38 | ![sueyoi](./images/logo_sueyoi.png)             | 末宵    |      | sueyoi       |            9 |            0 |
 |     39 | ![antonina](./images/logo_antonina.png)         | 安冬妮娜  |      | antonina     |            9 |            0 |
