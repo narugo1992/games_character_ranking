@@ -36,11 +36,11 @@ Top rank list of azur lane ( Full Version: [Safe](https://github.com/narugo1992/
 
 |   Rank | Face                                        | CN    | JP      | EN         |   All Images |   R18 Images |
 |--------|---------------------------------------------|-------|---------|------------|--------------|--------------|
-|      1 | ![bremerton](./images/logo_bremerton.png)   | 布莱默顿  | ブレマートン  | bremerton  |         6108 |         2804 |
-|      2 | ![taiho](./images/logo_taiho.png)           | 大凤    | 大鳳      | taiho      |         7169 |         2759 |
-|      3 | ![formidable](./images/logo_formidable.png) | 可畏    | フォーミダブル | formidable |         8346 |         2620 |
-|      4 | ![atago](./images/logo_atago.png)           | 爱宕    | 愛宕      | atago      |         7727 |         2615 |
-|      5 | ![belfast](./images/logo_belfast.png)       | 贝尔法斯特 | ベルファスト  | belfast    |         7570 |         2469 |
+|      1 | ![bremerton](./images/logo_bremerton.png)   | 布莱默顿  | ブレマートン  | bremerton  |         6125 |         2810 |
+|      2 | ![taiho](./images/logo_taiho.png)           | 大凤    | 大鳳      | taiho      |         7193 |         2773 |
+|      3 | ![formidable](./images/logo_formidable.png) | 可畏    | フォーミダブル | formidable |         8354 |         2626 |
+|      4 | ![atago](./images/logo_atago.png)           | 爱宕    | 愛宕      | atago      |         7737 |         2618 |
+|      5 | ![belfast](./images/logo_belfast.png)       | 贝尔法斯特 | ベルファスト  | belfast    |         7579 |         2473 |
 
 ## Genshin Impact
 
@@ -48,11 +48,11 @@ Top rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32603 |         8993 |
-|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        24998 |         8323 |
-|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17321 |         4814 |
-|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14040 |         4469 |
-|      5 | ![keqing](./images/logo_keqing.png)               | 刻晴   | 刻晴   | keqing        |        15860 |         4208 |
+|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32744 |         9031 |
+|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        25087 |         8363 |
+|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17392 |         4843 |
+|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14076 |         4485 |
+|      5 | ![hu_tao](./images/logo_hu_tao.png)               | 胡桃   | 胡桃   | hu_tao        |        23595 |         4233 |
 
 ## Girls' Front-Line
 
