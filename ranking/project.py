@@ -2,9 +2,10 @@ import os
 import re
 import time
 from typing import Optional, List, Collection, Tuple
+from urllib.parse import quote
 
 from gchar.games.base import Character as BaseCharacter
-from gchar.resources.pixiv import query_pixiv_illustration_count_by_character
+from gchar.resources.pixiv import query_pixiv_illustration_count_by_character, get_pixiv_keywords
 from hbutils.scale import time_to_duration
 from hbutils.string import plural_word
 from tabulate import tabulate
@@ -32,6 +33,10 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
     existing_filenames = set(existing_logo_filenames or [])
     for rank, (ch, total_count, r18_count) in enumerate(tqdm(items), start=1):
         logo_image = get_logo(ch, min_size=icon_size)
+        keyword = get_pixiv_keywords(ch)
+        pixiv_url = f'https://www.pixiv.net/en/tags/{quote(keyword)}/artworks?' \
+                    f'order=popular_d&s_mode=s_tag&mode={"r18" if mode == "r18" else "all"}'
+
         if logo_image is not None:
             logo_image = logo_image.resize((icon_size, icon_size))
             logo_filename = f'logo_{ch.enname}.png'
@@ -44,7 +49,8 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
             logo_image.save(logo_image_path)
             logo_md_element = f'![{ch.enname}]({os.path.join(".", IMAGES, logo_filename)})'
         else:
-            logo_md_element = '???'
+            logo_md_element = '<no face detected>'
+        logo_md_element = f'[{logo_md_element}]({pixiv_url})'
 
         table.append((
             rank,
