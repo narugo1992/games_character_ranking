@@ -12,7 +12,7 @@ Top rank list of arknights ( Full Version: [Safe](https://github.com/narugo1992/
 
 |   Rank | Face                                  | CN   | JP    | EN      |   All Images |   R18 Images |
 |--------|---------------------------------------|------|-------|---------|--------------|--------------|
-|      1 | ![w](./images/logo_w.png)             | w    | w     | w       |         7705 |         1127 |
+|      1 | ![w](./images/logo_w.png)             | W    | W     | w       |         7705 |         1127 |
 |      2 | ![amiya](./images/logo_amiya.png)     | 阿米娅  | アーミヤ  | amiya   |        13389 |          969 |
 |      3 | ![texas](./images/logo_texas.png)     | 德克萨斯 | テキサス  | texas   |        10447 |          890 |
 |      4 | ![suzuran](./images/logo_suzuran.png) | 铃兰   | スズラン  | suzuran |         4411 |          826 |
@@ -27,7 +27,7 @@ Top rank list of fate/grand order ( Full Version: [Safe](https://github.com/naru
 |      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)       | 玛修·基列莱特    | マシュ・キリエライト    | mash_kyrielight    |        29345 |         6575 |
 |      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)     | 阿尔托莉雅·潘德拉贡 | アルトリア・ペンドラゴン  | altria_pendragon   |        18760 |         4124 |
 |      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png) | 源赖光        | 源頼光           | minamoto_no_raikou |         9231 |         4083 |
-|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21203 |         3544 |
+|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png) | 贞德〔Alter〕  | ジャンヌ・ダルク〔オルタ〕 | jeanne_d_arc_alter |        21203 |         3544 |
 |      5 | ![astolfo](./images/logo_astolfo.png)                       | 阿斯托尔福      | アストルフォ        | astolfo            |        10214 |         2948 |
 
 ## Azur Lane
