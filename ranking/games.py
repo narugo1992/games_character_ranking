@@ -1,7 +1,7 @@
 import os.path
 import tempfile
 import time
-from typing import Union, Type, Iterator, Tuple
+from typing import Union, Type, Iterator, Tuple, Optional
 
 from PIL import Image
 from gchar.games.arknights import Character as ArknightsCharacter
@@ -77,7 +77,7 @@ _SKIN_YIELDERS = {
 
 
 def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 0.5,
-             min_size: int = 120) -> Image.Image:
+             min_size: int = 120) -> Optional[Image.Image]:
     from .image import find_heads
     cls, game_name = get_character_class(type(ch))
     collected_skins = []
@@ -105,7 +105,7 @@ def get_logo(ch: Character, out_threshold: float = 0.90, min_threshold: float = 
                     collected_skins.append((head, score, head.width, i))
 
     if not collected_skins:
-        raise ValueError(f'No head image detected for {ch!r}.')
+        return None
 
     collected_skins = sorted(collected_skins,
                              key=lambda x: (x[3], -min(x[1], (min_threshold + out_threshold) / 2), -x[2]))

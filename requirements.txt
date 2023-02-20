@@ -1,4 +1,4 @@
-gchar[speedup]>=0.0.5
+gchar[speedup]>=0.0.6
 pillow
 anime-face-detector
 numpy==1.21.6

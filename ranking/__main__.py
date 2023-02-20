@@ -47,8 +47,13 @@ def cli():
               help='Character count.')
 @click.option('--icon_size', 'icon_size', type=int, default=120,
               help='Size of character icon (in pixels)', show_default=True)
-def update(game: str, mode: str, number: int, output_dir: str, icon_size: int):
-    create_ranking_project(game, output_dir, number, icon_size, mode)
+@click.option('--recent_days', 'recent_days', type=int, default=240,
+              help='Recent days for recent ranking.', show_default=True)
+@click.option('--min_recent_count', 'min_recent_count', type=int, default=25,
+              help='Minimum recent character count in recent ranking.', show_default=True)
+def update(game: str, mode: str, number: int, output_dir: str, icon_size: int,
+           recent_days: int, min_recent_count: int):
+    create_ranking_project(game, output_dir, number, icon_size, mode, min_recent_count, f'{recent_days} days')
 
 
 @cli.command('crec', help='Recommended count for ranklist.')
