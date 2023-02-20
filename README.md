@@ -2,6 +2,8 @@
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
+## Overall Ranking
+
 Arknights game character safe picture number ranking on pixiv, the top 55 characters. 
 
 |   Rank | Face                                          | CN   | JP       | EN          |   All Images |   R18 Images |
@@ -9,7 +11,7 @@ Arknights game character safe picture number ranking on pixiv, the top 55 charac
 |      1 | ![amiya](./images/logo_amiya.png)             | 阿米娅  | アーミヤ     | amiya       |        13389 |          969 |
 |      2 | ![texas](./images/logo_texas.png)             | 德克萨斯 | テキサス     | texas       |        10447 |          890 |
 |      3 | ![exusiai](./images/logo_exusiai.png)         | 能天使  | エクシア     | exusiai     |         7944 |          658 |
-|      4 | ![w](./images/logo_w.png)                     | w    | w        | w           |         7705 |         1127 |
+|      4 | ![w](./images/logo_w.png)                     | W    | W        | w           |         7705 |         1127 |
 |      5 | ![lappland](./images/logo_lappland.png)       | 拉普兰德 | ラップランド   | lappland    |         6824 |          550 |
 |      6 | ![skadi](./images/logo_skadi.png)             | 斯卡蒂  | スカジ      | skadi       |         6705 |          738 |
 |      7 | ![chen](./images/logo_chen.png)               | 陈    | チェン      | chen        |         6013 |          732 |
@@ -61,3 +63,37 @@ Arknights game character safe picture number ranking on pixiv, the top 55 charac
 |     53 | ![goldenglow](./images/logo_goldenglow.png)   | 澄闪   | ゴールデングロー | goldenglow  |         1141 |           85 |
 |     54 | ![bagpipe](./images/logo_bagpipe.png)         | 风笛   | バグパイプ    | bagpipe     |         1088 |          164 |
 |     55 | ![kroos](./images/logo_kroos.png)             | 克洛丝  | クルース     | kroos       |         1067 |           92 |
+
+## Recent Ranking
+
+Arknights game character safe picture number ranking on pixiv, only including 26 recent characters. 
+
+|   Rank | Face                                          | CN   | JP     | EN          |   All Images |   R18 Images |
+|--------|-----------------------------------------------|------|--------|-------------|--------------|--------------|
+|      1 | ![pozemka](./images/logo_pozemka.png)         | 鸿雪   | パゼオンカ  | pozemka     |          409 |           67 |
+|      2 | ![lin](./images/logo_lin.png)                 | 林    |        | lin         |          316 |           39 |
+|      3 | ![penance](./images/logo_penance.png)         | 斥罪   |        | penance     |          123 |           35 |
+|      4 | ![młynar](./images/logo_młynar.png)           | 玛恩纳  |        | młynar      |          116 |           10 |
+|      5 | ![dorothy](./images/logo_dorothy.png)         | 多萝西  |        | dorothy     |           93 |           26 |
+|      6 | ![chongyue](./images/logo_chongyue.png)       | 重岳   |        | chongyue    |           77 |            9 |
+|      7 | ![harmonie](./images/logo_harmonie.png)       | 和弦   |        | harmonie    |           75 |           45 |
+|      8 | ![astgenne](./images/logo_astgenne.png)       | 星源   |        | astgenne    |           69 |           13 |
+|      9 | ![cantabile](./images/logo_cantabile.png)     | 晓歌   | カンタービレ | cantabile   |           59 |           14 |
+|     10 | ![highmore](./images/logo_highmore.png)       | 海沫   |        | highmore    |           55 |           10 |
+|     11 | ![luo_xiaohei](./images/logo_luo_xiaohei.png) | 罗小黑  |        | luo_xiaohei |           36 |            0 |
+|     12 | ![minimalist](./images/logo_minimalist.png)   | 至简   | ミニマリスト | minimalist  |           30 |            4 |
+|     13 | ![stainless](./images/logo_stainless.png)     | 白铁   |        | stainless   |           23 |            4 |
+|     14 | ![vigil](./images/logo_vigil.png)             | 伺夜   |        | vigil       |           21 |            0 |
+|     15 | ![totter](./images/logo_totter.png)           | 铅踝   |        | totter      |           15 |            8 |
+|     16 | ![qiubai](./images/logo_qiubai.png)           | 仇白   |        | qiubai      |           14 |            4 |
+|     17 | ![firewhistle](./images/logo_firewhistle.png) | 火哨   |        | firewhistle |           12 |            3 |
+|     18 | ![lunacub](./images/logo_lunacub.png)         | 子月   |        | lunacub     |           10 |            3 |
+|     19 | ![proviso](./images/logo_proviso.png)         | 但书   |        | proviso     |            9 |            2 |
+|     20 | ![dagda](./images/logo_dagda.png)             | 达格达  |        | dagda       |            9 |            1 |
+|     21 | ![jieyun](./images/logo_jieyun.png)           | 截云   |        | jieyun      |            7 |            3 |
+|     22 | ![qanipalaat](./images/logo_qanipalaat.png)   | 雪绒   |        | qanipalaat  |            6 |            1 |
+|     23 | ![paprika](./images/logo_paprika.png)         | 明椒   |        | paprika     |            3 |            2 |
+|     24 | ![puzzle](./images/logo_puzzle.png)           | 谜图   |        | puzzle      |            3 |            0 |
+|     25 | ![quartz](./images/logo_quartz.png)           | 石英   |        | quartz      |            1 |            1 |
+|     26 | ![wind_chimes](./images/logo_wind_chimes.png) | 铎铃   |        | wind_chimes |            1 |            0 |
+
