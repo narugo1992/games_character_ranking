@@ -1,8 +1,10 @@
-# Character Ranking List of Azur Lane [R18]
+# Character Ranking List of Azurlane [R18]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Azur lane game character r18 picture number ranking on pixiv, the top 115 characters. 
+## Overall Ranking
+
+Azurlane game character r18 picture number ranking on pixiv, the top 115 characters. 
 
 |   Rank | Face                                                            | CN          | JP               | EN                   |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------|-------------|------------------|----------------------|--------------|--------------|
@@ -32,7 +34,7 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     24 | ![dido](./images/logo_dido.png)                                 | 黛朵          | ダイドー             | dido                 |         2306 |          673 |
 |     25 | ![yamashiro](./images/logo_yamashiro.png)                       | 山城          | 山城               | yamashiro            |         2698 |          648 |
 |     26 | ![bache](./images/logo_bache.png)                               | 贝奇          | バッチ              | bache                |         1468 |          632 |
-|     27 | ![z23](./images/logo_z23.png)                                   | z23         |                  | z23                  |         2792 |          595 |
+|     27 | ![z23](./images/logo_z23.png)                                   | Z23         |                  | z23                  |         2792 |          595 |
 |     28 | ![nagato](./images/logo_nagato.png)                             | 长门          | 長門               | nagato               |         2084 |          528 |
 |     29 | ![yudachi](./images/logo_yudachi.png)                           | 夕立          | 夕立               | yudachi              |         2374 |          452 |
 |     30 | ![shinano](./images/logo_shinano.png)                           | 信浓          | 信濃               | shinano              |         1867 |          448 |
@@ -63,7 +65,7 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     55 | ![deutschland](./images/logo_deutschland.png)                   | 德意志         | ドイッチュラント         | deutschland          |         1150 |          233 |
 |     56 | ![ping_hai](./images/logo_ping_hai.png)                         | 平海          | 平海               | ping_hai             |          989 |          233 |
 |     57 | ![indomitable](./images/logo_indomitable.png)                   | 不挠          | インドミタブル          | indomitable          |          846 |          232 |
-|     58 | ![z46](./images/logo_z46.png)                                   | z46         |                  | z46                  |         1185 |          225 |
+|     58 | ![z46](./images/logo_z46.png)                                   | Z46         |                  | z46                  |         1185 |          225 |
 |     59 | ![hood](./images/logo_hood.png)                                 | 胡德          | フッド              | hood                 |          974 |          224 |
 |     60 | ![warspite](./images/logo_warspite.png)                         | 厌战          | ウォースパイト          | warspite             |         1449 |          222 |
 |     61 | ![nelson](./images/logo_nelson.png)                             | 纳尔逊         | ネルソン             | nelson               |          591 |          219 |
@@ -103,7 +105,7 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |     95 | ![albacore](./images/logo_albacore.png)                         | 大青花鱼        | アルバコア            | albacore             |          400 |          117 |
 |     96 | ![ajax](./images/logo_ajax.png)                                 | 阿贾克斯        | エイジャックス          | ajax                 |          473 |          115 |
 |     97 | ![indianapolis](./images/logo_indianapolis.png)                 | 印第安纳波利斯     | インディアナポリス        | indianapolis         |          626 |          114 |
-|     98 | ![u_47](./images/logo_u_47.png)                                 | u-47        |                  | u_47                 |          538 |          114 |
+|     98 | ![u_47](./images/logo_u_47.png)                                 | U-47        |                  | u_47                 |          538 |          114 |
 |     99 | ![jean_bart](./images/logo_jean_bart.png)                       | 让·巴尔        | ジャン・バール          | jean_bart            |          743 |          113 |
 |    100 | ![saint_louis](./images/logo_saint_louis.png)                   | 路易九世        | サン・ルイ            | saint_louis          |          556 |          110 |
 |    101 | ![fuso](./images/logo_fuso.png)                                 | 扶桑          | 扶桑               | fuso                 |          518 |          109 |
@@ -121,3 +123,53 @@ Azur lane game character r18 picture number ranking on pixiv, the top 115 charac
 |    113 | ![juneau](./images/logo_juneau.png)                             | 朱诺          | ジュノー             | juneau               |          373 |           94 |
 |    114 | ![juno](./images/logo_juno.png)                                 | 天后          | ジュノー             | juno                 |          370 |           92 |
 |    115 | ![kumano](./images/logo_kumano.png)                             | 熊野          | 熊野               | kumano               |          349 |           91 |
+
+## Recent Ranking
+
+Azurlane game character r18 picture number ranking on pixiv, only including 42 recent characters. 
+
+|   Rank | Face                                                        | CN         | JP             | EN                 |   All Images |   R18 Images |
+|--------|-------------------------------------------------------------|------------|----------------|--------------------|--------------|--------------|
+|      1 | ![enterprise](./images/logo_enterprise.png)                 | 进取         | エンタープライズ       | enterprise         |         6293 |          770 |
+|      2 | ![musashi](./images/logo_musashi.png)                       | 武藏         | 武蔵             | musashi            |          891 |          274 |
+|      3 | ![plymouth](./images/logo_plymouth.png)                     | 普利茅斯       | プリマス           | plymouth           |          224 |           63 |
+|      4 | ![brest](./images/logo_brest.png)                           | 布雷斯特       | ブレスト           | brest              |          147 |           44 |
+|      5 | ![albion](./images/logo_albion.png)                         | 阿尔比恩       | アルビオン          | albion             |          126 |           43 |
+|      6 | ![janus](./images/logo_janus.png)                           | 雅努斯        | ジェーナス          | janus              |          159 |           42 |
+|      7 | ![joffre](./images/logo_joffre.png)                         | 霞飞         | ジョッフル          | joffre             |          134 |           33 |
+|      8 | ![blucher](./images/logo_blucher.png)                       | 布吕歇尔       | ブリュッヒャー        | blucher            |          135 |           32 |
+|      9 | ![reisalin_stout](./images/logo_reisalin_stout.png)         | 莱莎琳·斯托特    | ライザリン・シュタウト    | reisalin_stout     |          104 |           31 |
+|     10 | ![brunhilde](./images/logo_brunhilde.png)                   | 布伦希尔德      | ブリュンヒルデ        | brunhilde          |          111 |           30 |
+|     11 | ![royal_fortune](./images/logo_royal_fortune.png)           | 皇家财富号      | ロイヤル・フォーチュン    | royal_fortune      |          111 |           23 |
+|     12 | ![prinz_rupprecht](./images/logo_prinz_rupprecht.png)       | 鲁普雷希特亲王    | プリンツ・ループレヒト    | prinz_rupprecht    |          173 |           22 |
+|     13 | ![yorktown_ii](./images/logo_yorktown_ii.png)               | 约克城II      | ヨークタウンII       | yorktown_ii        |          115 |           22 |
+|     14 | ![manchester](./images/logo_manchester.png)                 | 曼彻斯特       | マンチェスター        | manchester         |           74 |           22 |
+|     15 | ![ting_an](./images/logo_ting_an.png)                       | 定安         | 定安             | ting_an            |           47 |           20 |
+|     16 | ![harbin](./images/logo_harbin.png)                         | 哈尔滨        | ハルビン           | harbin             |           68 |           19 |
+|     17 | ![leonardo_da_vinci](./images/logo_leonardo_da_vinci.png)   | 莱昂纳多·达·芬奇  | レオナルド・ダ・ヴィンチ   | leonardo_da_vinci  |           84 |           17 |
+|     18 | ![miyuki](./images/logo_miyuki.png)                         | 深雪         | 深雪             | miyuki             |           71 |           15 |
+|     19 | ![chkalov](./images/logo_chkalov.png)                       | 契卡洛夫       | チカロフ           | chkalov            |           50 |           13 |
+|     20 | ![l_indomptable](./images/logo_l_indomptable.png)           | 不屈         | ランドンターブル       | l_indomptable      |           64 |           11 |
+|     21 | ![roma](./images/logo_roma.png)                             | 罗马         | ローマ            | roma               |           44 |           11 |
+|     22 | ![sakawa](./images/logo_sakawa.png)                         | 酒匂         | 酒匂             | sakawa             |          109 |            9 |
+|     23 | ![lila_decyrus](./images/logo_lila_decyrus.png)             | 莉拉·德西亚斯    | リラ・ディザイアス      | lila_decyrus       |           15 |            8 |
+|     24 | ![kuybyshev](./images/logo_kuybyshev.png)                   | 古比雪夫       | クイビシェフ         | kuybyshev          |           31 |            7 |
+|     25 | ![haguro](./images/logo_haguro.png)                         | 羽黑         | 羽黒             | haguro             |           43 |            6 |
+|     26 | ![friedrich_eckoldt](./images/logo_friedrich_eckoldt.png)   | Z16        |                | friedrich_eckoldt  |           29 |            6 |
+|     27 | ![emanuele_pessagno](./images/logo_emanuele_pessagno.png)   | 埃曼努埃尔·佩萨格诺 | エマヌエーレ・ペッサーニョ  | emanuele_pessagno  |           32 |            5 |
+|     28 | ![hornet_ii](./images/logo_hornet_ii.png)                   | 大黄蜂II      | ホーネットII        | hornet_ii          |           27 |            5 |
+|     29 | ![northampton_ii](./images/logo_northampton_ii.png)         | 北安普敦II     | ノーザンプトンII      | northampton_ii     |           15 |            2 |
+|     30 | ![klaudia_valentz](./images/logo_klaudia_valentz.png)       | 科洛蒂娅·巴兰茨   | クラウディア・バレンツ    | klaudia_valentz    |           12 |            2 |
+|     31 | ![hammann_ii](./images/logo_hammann_ii.png)                 | 哈曼II       | ハムマンII         | hammann_ii         |           25 |            1 |
+|     32 | ![little_spee](./images/logo_little_spee.png)               | 小斯佩        | シュペーちゃん        | little_spee        |           21 |            1 |
+|     33 | ![bolzano](./images/logo_bolzano.png)                       | 博尔扎诺       | ボルツァーノ         | bolzano            |           14 |            1 |
+|     34 | ![wakatsuki](./images/logo_wakatsuki.png)                   | 若月         | 若月             | wakatsuki          |           10 |            1 |
+|     35 | ![patricia_abelheim](./images/logo_patricia_abelheim.png)   | 帕特莉夏·阿贝尔海姆 | パトリツィア・アーベルハイム | patricia_abelheim  |            7 |            1 |
+|     36 | ![theseus](./images/logo_theseus.png)                       | 忒修斯        | シーシュース         | theseus            |           17 |            0 |
+|     37 | ![alfredo_oriani](./images/logo_alfredo_oriani.png)         | 阿尔弗雷多·奥里亚尼 | アルフレード・オリアーニ   | alfredo_oriani     |           13 |            0 |
+|     38 | ![hwah_jah](./images/logo_hwah_jah.png)                     | 华甲         | 華甲（ファージャ）      | hwah_jah           |            8 |            0 |
+|     39 | ![langley_ii](./images/logo_langley_ii.png)                 | 兰利II       | ラングレーII        | langley_ii         |            6 |            0 |
+|     40 | ![kala_ideas](./images/logo_kala_ideas.png)                 | 卡菈·伊迪亚斯    | カラ・イデアス        | kala_ideas         |            4 |            0 |
+|     41 | ![giuseppe_garibaldi](./images/logo_giuseppe_garibaldi.png) | 朱塞佩·加里波第   | ジュゼッペ·ガリバルディ   | giuseppe_garibaldi |            0 |            0 |
+|     42 | ![serri_glaus](./images/logo_serri_glaus.png)               | 赛莉·古劳斯     | セリ・グロース        | serri_glaus        |            0 |            0 |
+
