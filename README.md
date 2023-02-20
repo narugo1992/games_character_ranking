@@ -1,18 +1,20 @@
-# Character Ranking List of Fate/Grand Order [R18]
+# Character Ranking List of Fgo [R18]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Fate/grand order game character r18 picture number ranking on pixiv, the top 65 characters. 
+## Overall Ranking
+
+Fgo game character r18 picture number ranking on pixiv, the top 65 characters. 
 
 |   Rank | Face                                                                              | CN                  | JP                   | EN                            |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------------------|---------------------|----------------------|-------------------------------|--------------|--------------|
 |      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)                             | 玛修·基列莱特             | マシュ・キリエライト           | mash_kyrielight               |        29345 |         6575 |
 |      2 | ![altria_pendragon](./images/logo_altria_pendragon.png)                           | 阿尔托莉雅·潘德拉贡          | アルトリア・ペンドラゴン         | altria_pendragon              |        18760 |         4124 |
 |      3 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png)                       | 源赖光                 | 源頼光                  | minamoto_no_raikou            |         9231 |         4083 |
-|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png)                       | 贞德〔alter〕           | ジャンヌ・ダルク〔オルタ〕        | jeanne_d_arc_alter            |        21203 |         3544 |
+|      4 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png)                       | 贞德〔Alter〕           | ジャンヌ・ダルク〔オルタ〕        | jeanne_d_arc_alter            |        21203 |         3544 |
 |      5 | ![astolfo](./images/logo_astolfo.png)                                             | 阿斯托尔福               | アストルフォ               | astolfo                       |        10214 |         2948 |
 |      6 | ![scathach](./images/logo_scathach.png)                                           | 斯卡哈                 | スカサハ                 | scathach                      |         9865 |         2605 |
-|      7 | ![bb](./images/logo_bb.png)                                                       | bb                  | ｂｂ                   | bb                            |         8029 |         2305 |
+|      7 | ![bb](./images/logo_bb.png)                                                       | BB                  | ＢＢ                   | bb                            |         8029 |         2305 |
 |      8 | ![shuten_douji](./images/logo_shuten_douji.png)                                   | 酒吞童子                | 酒呑童子                 | shuten_douji                  |        11037 |         2222 |
 |      9 | ![tamamo_no_mae](./images/logo_tamamo_no_mae.png)                                 | 玉藻前                 | 玉藻の前                 | tamamo_no_mae                 |        10285 |         2049 |
 |     10 | ![jeanne_d_arc](./images/logo_jeanne_d_arc.png)                                   | 贞德                  | ジャンヌ・ダルク             | jeanne_d_arc                  |         8805 |         1922 |
@@ -29,8 +31,8 @@ Fate/grand order game character r18 picture number ranking on pixiv, the top 65 
 |     21 | ![boudica](./images/logo_boudica.png)                                             | 布狄卡                 | ブーディカ                | boudica                       |         2353 |         1136 |
 |     22 | ![jack_the_ripper](./images/logo_jack_the_ripper.png)                             | 开膛手杰克               | ジャック・ザ・リッパー          | jack_the_ripper               |         6170 |         1117 |
 |     23 | ![tomoe_gozen](./images/logo_tomoe_gozen.png)                                     | 巴御前                 | 巴御前                  | tomoe_gozen                   |         4813 |          917 |
-|     24 | ![meltryllis](./images/logo_meltryllis.png)                                       | meltryllis          | メルトリリス               | meltryllis                    |         8990 |          820 |
-|     25 | ![mysterious_heroine_xx](./images/logo_mysterious_heroine_xx.png)                 | 谜之女主角xx             | 謎のヒロインxx             | mysterious_heroine_xx         |         2717 |          794 |
+|     24 | ![meltryllis](./images/logo_meltryllis.png)                                       | Meltryllis          | メルトリリス               | meltryllis                    |         8990 |          820 |
+|     25 | ![mysterious_heroine_xx](./images/logo_mysterious_heroine_xx.png)                 | 谜之女主角XX             | 謎のヒロインXX             | mysterious_heroine_xx         |         2717 |          794 |
 |     26 | ![sessyoin_kiara](./images/logo_sessyoin_kiara.png)                               | 杀生院祈荒               | 殺生院キアラ               | sessyoin_kiara                |         3770 |          786 |
 |     27 | ![anastasia](./images/logo_anastasia.png)                                         | 阿纳斯塔西娅              | アナスタシア               | anastasia                     |         4318 |          767 |
 |     28 | ![nitocris](./images/logo_nitocris.png)                                           | 尼托克丽丝               | ニトクリス                | nitocris                      |         4571 |          764 |
@@ -42,10 +44,10 @@ Fate/grand order game character r18 picture number ranking on pixiv, the top 65 
 |     34 | ![martha](./images/logo_martha.png)                                               | 玛尔达                 | マルタ                  | martha                        |         2721 |          690 |
 |     35 | ![tam_lin_gawain](./images/logo_tam_lin_gawain.png)                               | 妖精骑士高文              | 妖精騎士ガウェイン            | tam_lin_gawain                |         2297 |          659 |
 |     36 | ![ereshkigal](./images/logo_ereshkigal.png)                                       | 埃列什基伽勒              | エレシュキガル              | ereshkigal                    |         6941 |          640 |
-|     37 | ![passionlip](./images/logo_passionlip.png)                                       | passionlip          | パッションリップ             | passionlip                    |         2531 |          640 |
+|     37 | ![passionlip](./images/logo_passionlip.png)                                       | Passionlip          | パッションリップ             | passionlip                    |         2531 |          640 |
 |     38 | ![medusa](./images/logo_medusa.png)                                               | 美杜莎                 | メドゥーサ                | medusa                        |         2754 |          573 |
 |     39 | ![yu_mei_ren](./images/logo_yu_mei_ren.png)                                       | 虞美人                 | 虞美人                  | yu_mei_ren                    |         3713 |          563 |
-|     40 | ![altria_pendragon_alter](./images/logo_altria_pendragon_alter.png)               | 阿尔托莉雅·潘德拉贡〔alter〕   | アルトリア・ペンドラゴン〔オルタ〕    | altria_pendragon_alter        |         5301 |          557 |
+|     40 | ![altria_pendragon_alter](./images/logo_altria_pendragon_alter.png)               | 阿尔托莉雅·潘德拉贡〔Alter〕   | アルトリア・ペンドラゴン〔オルタ〕    | altria_pendragon_alter        |         5301 |          557 |
 |     41 | ![katsushika_hokusai](./images/logo_katsushika_hokusai.png)                       | 葛饰北斋                | 葛飾北斎                 | katsushika_hokusai            |         5016 |          549 |
 |     42 | ![bradamante](./images/logo_bradamante.png)                                       | 布拉达曼特               | ブラダマンテ               | bradamante                    |         1662 |          544 |
 |     43 | ![elisabeth_bathory](./images/logo_elisabeth_bathory.png)                         | 伊丽莎白·巴托里            | エリザベート・バートリー         | elisabeth_bathory             |         4586 |          542 |
@@ -64,10 +66,13 @@ Fate/grand order game character r18 picture number ranking on pixiv, the top 65 
 |     56 | ![sima_yi_reines](./images/logo_sima_yi_reines.png)                               | 司马懿〔莱妮丝〕            | 司馬懿〔ライネス〕            | sima_yi_reines                |         1603 |          374 |
 |     57 | ![miyu_edelfelt](./images/logo_miyu_edelfelt.png)                                 | 美游·艾德费尔特            | 美遊・エーデルフェルト          | miyu_edelfelt                 |         1191 |          365 |
 |     58 | ![gilgamesh](./images/logo_gilgamesh.png)                                         | 吉尔伽美什               | ギルガメッシュ              | gilgamesh                     |         8803 |          344 |
-|     59 | ![jeanne_d_arc_alter_santa_lily](./images/logo_jeanne_d_arc_alter_santa_lily.png) | 贞德·alter·santa·lily | ジャンヌ・ダルク・オルタ・サンタ・リリィ | jeanne_d_arc_alter_santa_lily |         2947 |          337 |
+|     59 | ![jeanne_d_arc_alter_santa_lily](./images/logo_jeanne_d_arc_alter_santa_lily.png) | 贞德·Alter·Santa·Lily | ジャンヌ・ダルク・オルタ・サンタ・リリィ | jeanne_d_arc_alter_santa_lily |         2947 |          337 |
 |     60 | ![scheherazade](./images/logo_scheherazade.png)                                   | 山鲁佐德                | シェヘラザード              | scheherazade                  |         1170 |          336 |
 |     61 | ![caenis](./images/logo_caenis.png)                                               | 凯妮斯                 | カイニス                 | caenis                        |         1721 |          327 |
 |     62 | ![qin_liangyu](./images/logo_qin_liangyu.png)                                     | 秦良玉                 | 秦良玉                  | qin_liangyu                   |          965 |          322 |
-|     63 | ![mysterious_heroine_x_alter](./images/logo_mysterious_heroine_x_alter.png)       | 谜之女主角x〔alter〕       | 謎のヒロインx〔オルタ〕         | mysterious_heroine_x_alter    |         2999 |          301 |
+|     63 | ![mysterious_heroine_x_alter](./images/logo_mysterious_heroine_x_alter.png)       | 谜之女主角X〔Alter〕       | 謎のヒロインX〔オルタ〕         | mysterious_heroine_x_alter    |         2999 |          301 |
 |     64 | ![queen_medb](./images/logo_queen_medb.png)                                       | 女王梅芙                | 女王メイヴ                | queen_medb                    |         1980 |          296 |
 |     65 | ![utsumi_erice](./images/logo_utsumi_erice.png)                                   | 宇津见绘里濑              | 宇津見エリセ               | utsumi_erice                  |         1310 |          296 |
+
+## Recent Ranking
+
