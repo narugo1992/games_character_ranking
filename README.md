@@ -78,21 +78,21 @@ Top rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32943 |         9092 |
-|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        25237 |         8438 |
-|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17500 |         4876 |
-|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14112 |         4501 |
-|      5 | ![hu_tao](./images/logo_hu_tao.png)               | 胡桃   | 胡桃   | hu_tao        |        23735 |         4274 |
+|      1 | ![ganyu](./images/logo_ganyu.png)                 | 甘雨   | 甘雨   | ganyu         |        32982 |         9074 |
+|      2 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        25263 |         8449 |
+|      3 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17515 |         4920 |
+|      4 | ![mona](./images/logo_mona.png)                   | 莫娜   | モナ   | mona          |        14108 |         4512 |
+|      5 | ![hu_tao](./images/logo_hu_tao.png)               | 胡桃   | 胡桃   | hu_tao        |        23742 |         4272 |
 
 Recent rank list of genshin impact ( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/genshin_safe#recent-ranking) | [R18](https://github.com/narugo1992/games_character_ranking/tree/genshin_r18#recent-ranking) )
 
 |   Rank | Face                                              | CN   | JP   | EN            |   All Images |   R18 Images |
 |--------|---------------------------------------------------|------|------|---------------|--------------|--------------|
-|      1 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        25237 |         8438 |
-|      2 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17500 |         4876 |
-|      3 | ![nahida](./images/logo_nahida.png)               | 纳西妲  | ナヒーダ | nahida        |        11170 |         3127 |
-|      4 | ![shenhe](./images/logo_shenhe.png)               | 申鹤   | 申鶴   | shenhe        |         7764 |         2210 |
-|      5 | ![yelan](./images/logo_yelan.png)                 | 夜兰   | 夜蘭   | yelan         |         6492 |         1949 |
+|      1 | ![raiden_shogun](./images/logo_raiden_shogun.png) | 雷电将军 | 雷電将軍 | raiden_shogun |        25263 |         8449 |
+|      2 | ![yae_miko](./images/logo_yae_miko.png)           | 八重神子 | 八重神子 | yae_miko      |        17515 |         4920 |
+|      3 | ![nahida](./images/logo_nahida.png)               | 纳西妲  | ナヒーダ | nahida        |        11174 |         3166 |
+|      4 | ![shenhe](./images/logo_shenhe.png)               | 申鹤   | 申鶴   | shenhe        |         7769 |         2215 |
+|      5 | ![yelan](./images/logo_yelan.png)                 | 夜兰   | 夜蘭   | yelan         |         6505 |         1956 |
 
 ## Girls' Front-Line
 
