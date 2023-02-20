@@ -1,8 +1,10 @@
-# Character Ranking List of Genshin Impact [R18]
+# Character Ranking List of Genshin [R18]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Genshin impact game character r18 picture number ranking on pixiv, the top 40 characters. 
+## Overall Ranking
+
+Genshin game character r18 picture number ranking on pixiv, the top 40 characters. 
 
 |   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
 |--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
@@ -46,3 +48,36 @@ Genshin impact game character r18 picture number ranking on pixiv, the top 40 ch
 |     38 | ![yanfei](./images/logo_yanfei.png)                         | 烟绯    | 煙緋     | yanfei             |         3511 |          531 |
 |     39 | ![xingqiu](./images/logo_xingqiu.png)                       | 行秋    | 行秋     | xingqiu            |         3766 |          455 |
 |     40 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2069 |          451 |
+
+## Recent Ranking
+
+Genshin game character r18 picture number ranking on pixiv, only including 25 recent characters. 
+
+|   Rank | Face                                                        | CN    | JP     | EN                 |   All Images |   R18 Images |
+|--------|-------------------------------------------------------------|-------|--------|--------------------|--------------|--------------|
+|      1 | ![raiden_shogun](./images/logo_raiden_shogun.png)           | 雷电将军  | 雷電将軍   | raiden_shogun      |        25237 |         8438 |
+|      2 | ![yae_miko](./images/logo_yae_miko.png)                     | 八重神子  | 八重神子   | yae_miko           |        17500 |         4876 |
+|      3 | ![nahida](./images/logo_nahida.png)                         | 纳西妲   | ナヒーダ   | nahida             |        11170 |         3127 |
+|      4 | ![shenhe](./images/logo_shenhe.png)                         | 申鹤    | 申鶴     | shenhe             |         7764 |         2210 |
+|      5 | ![yelan](./images/logo_yelan.png)                           | 夜兰    | 夜蘭     | yelan              |         6492 |         1949 |
+|      6 | ![nilou](./images/logo_nilou.png)                           | 妮露    | ニィロウ   | nilou              |         5709 |         1436 |
+|      7 | ![sangonomiya_kokomi](./images/logo_sangonomiya_kokomi.png) | 珊瑚宫心海 | 珊瑚宮心海  | sangonomiya_kokomi |         6770 |         1406 |
+|      8 | ![kujou_sara](./images/logo_kujou_sara.png)                 | 九条裟罗  | 九条裟羅   | kujou_sara         |         3374 |         1096 |
+|      9 | ![kuki_shinobu](./images/logo_kuki_shinobu.png)             | 久岐忍   | 久岐忍    | kuki_shinobu       |         2020 |          624 |
+|     10 | ![gorou](./images/logo_gorou.png)                           | 五郎    | ゴロー    | gorou              |         2688 |          615 |
+|     11 | ![arataki_itto](./images/logo_arataki_itto.png)             | 荒泷一斗  | 荒瀧一斗   | arataki_itto       |         2069 |          451 |
+|     12 | ![kamisato_ayato](./images/logo_kamisato_ayato.png)         | 神里绫人  | 神里綾人   | kamisato_ayato     |         3591 |          410 |
+|     13 | ![yun_jin](./images/logo_yun_jin.png)                       | 云堇    | 雲菫     | yun_jin            |         1997 |          379 |
+|     14 | ![candace](./images/logo_candace.png)                       | 坎蒂丝   | キャンディス | candace            |          932 |          358 |
+|     15 | ![thoma](./images/logo_thoma.png)                           | 托马    | トーマ    | thoma              |         2017 |          355 |
+|     16 | ![collei](./images/logo_collei.png)                         | 柯莱    | コレイ    | collei             |         1623 |          351 |
+|     17 | ![alhaitham](./images/logo_alhaitham.png)                   | 艾尔海森  | アルハイゼン | alhaitham          |         2237 |          318 |
+|     18 | ![faruzan](./images/logo_faruzan.png)                       | 珐露珊   | ファルザン  | faruzan            |         1104 |          279 |
+|     19 | ![layla](./images/logo_layla.png)                           | 莱依拉   | レイラ    | layla              |         1482 |          268 |
+|     20 | ![yaoyao](./images/logo_yaoyao.png)                         | 瑶瑶    | ヨォーヨ   | yaoyao             |         1318 |          215 |
+|     21 | ![tighnari](./images/logo_tighnari.png)                     | 提纳里   | ティナリ   | tighnari           |         2625 |          210 |
+|     22 | ![wanderer](./images/logo_wanderer.png)                     | 流浪者   | 放浪者    | wanderer           |         3014 |          203 |
+|     23 | ![cyno](./images/logo_cyno.png)                             | 赛诺    | セノ     | cyno               |         1640 |          197 |
+|     24 | ![shikanoin_heizou](./images/logo_shikanoin_heizou.png)     | 鹿野院平藏 | 鹿野院平蔵  | shikanoin_heizou   |         1644 |          172 |
+|     25 | ![dori](./images/logo_dori.png)                             | 多莉    | ドリー    | dori               |          594 |          150 |
+
