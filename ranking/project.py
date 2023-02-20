@@ -34,7 +34,7 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
     for rank, (ch, total_count, r18_count) in enumerate(tqdm(items), start=1):
         logo_image = get_logo(ch, min_size=icon_size)
         keyword = get_pixiv_keywords(ch)
-        pixiv_url = f'https://www.pixiv.net/en/tags/{quote(keyword)}/artworks?' \
+        pixiv_url = f'https://www.pixiv.net/en/tags/{quote(keyword, safe="()")}/artworks?' \
                     f'order=popular_d&s_mode=s_tag&mode={"r18" if mode == "r18" else "all"}'
 
         if logo_image is not None:
