@@ -76,3 +76,33 @@ Fgo game character r18 picture number ranking on pixiv, the top 65 characters.
 
 ## Recent Ranking
 
+Fgo game character r18 picture number ranking on pixiv, only including 25 recent characters. 
+
+|   Rank | Face                                                    | CN              | JP           | EN                   |   All Images |   R18 Images |
+|--------|---------------------------------------------------------|-----------------|--------------|----------------------|--------------|--------------|
+|      1 | ![ortlinde](./images/logo_ortlinde.png)                 | 奥特琳德            | オルトリンデ       | ortlinde             |          620 |           93 |
+|      2 | ![britomart](./images/logo_britomart.png)               | 布里托玛特           | ブリトマート       | britomart            |          179 |           73 |
+|      3 | ![xu_fu](./images/logo_xu_fu.png)                       | 徐福              | 徐福           | xu_fu                |          832 |           69 |
+|      4 | ![thrud](./images/logo_thrud.png)                       | 斯露德             | スルーズ         | thrud                |          486 |           68 |
+|      5 | ![lady_avalon](./images/logo_lady_avalon.png)           | 阿瓦隆女士           | レディ・アヴァロン    | lady_avalon          |          632 |           62 |
+|      6 | ![kriemhild](./images/logo_kriemhild.png)               | 克琳希德            | クリームヒルト      | kriemhild            |          555 |           62 |
+|      7 | ![sen_no_rikyu](./images/logo_sen_no_rikyu.png)         | 千利休             | 千利休          | sen_no_rikyu         |          644 |           60 |
+|      8 | ![archetype_earth](./images/logo_archetype_earth.png)   | Archetype:Earth | アーキタイプ：アース   | archetype_earth      |          499 |           60 |
+|      9 | ![hildr](./images/logo_hildr.png)                       | 希露德             | ヒルド          | hildr                |          413 |           49 |
+|     10 | ![huyan_zhuo](./images/logo_huyan_zhuo.png)             | 呼延灼             | 呼延灼          | huyan_zhuo           |          303 |           46 |
+|     11 | ![tlaloc](./images/logo_tlaloc.png)                     | 特拉洛克            | トラロック        | tlaloc               |          334 |           39 |
+|     12 | ![iyo](./images/logo_iyo.png)                           | 壹与              | 壱与           | iyo                  |          196 |           36 |
+|     13 | ![nitocris_alter](./images/logo_nitocris_alter.png)     | 尼托克丽丝〔Alter〕    | ニトクリス〔オルタ〕   | nitocris_alter       |          237 |           32 |
+|     14 | ![yamanami_keisuke](./images/logo_yamanami_keisuke.png) | 山南敬助            | 山南敬助         | yamanami_keisuke     |          445 |           26 |
+|     15 | ![jiuwenlong_elisa](./images/logo_jiuwenlong_elisa.png) | 九纹龙伊丽莎          | 九紋竜エリザ       | jiuwenlong_elisa     |          166 |           16 |
+|     16 | ![grigori_rasputin](./images/logo_grigori_rasputin.png) | 格里戈里·拉斯普京       | グレゴリー・ラスプーチン | grigori_rasputin     |          423 |           15 |
+|     17 | ![kyokutei_bakin](./images/logo_kyokutei_bakin.png)     | 曲亭马琴            | 曲亭馬琴         | kyokutei_bakin       |          217 |           10 |
+|     18 | ![kukulkan](./images/logo_kukulkan.png)                 | 库库尔坎            | ククルカン        | kukulkan             |           89 |            9 |
+|     19 | ![tezcatlipoca](./images/logo_tezcatlipoca.png)         | 特斯卡特利波卡         | テスカトリポカ      | tezcatlipoca         |          283 |            6 |
+|     20 | ???                                                     | 源为朝             | 源為朝          | minamoto_no_tametomo |           90 |            5 |
+|     21 | ![huang_feihu](./images/logo_huang_feihu.png)           | 黄飞虎             | 黄飛虎          | huang_feihu          |           32 |            5 |
+|     22 | ![roland](./images/logo_roland.png)                     | 罗兰              | ローラン         | roland               |          127 |            2 |
+|     23 | ![pope_joan](./images/logo_pope_joan.png)               | 女教皇若安           | 女教皇ヨハンナ      | pope_joan            |           14 |            2 |
+|     24 | ![don_quixote](./images/logo_don_quixote.png)           | 堂吉诃德            | ドン・キホーテ      | don_quixote          |           53 |            1 |
+|     25 | ![zhang_jiao](./images/logo_zhang_jiao.png)             | 张角              | 張角           | zhang_jiao           |           33 |            0 |
+
