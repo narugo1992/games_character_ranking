@@ -100,21 +100,21 @@ Top rank list of girls' front-line ( Full Version: [Safe](https://github.com/nar
 
 |   Rank | Face                                          | CN     | JP         | EN          |   All Images |   R18 Images |
 |--------|-----------------------------------------------|--------|------------|-------------|--------------|--------------|
-|      1 | ![416](./images/logo_416.png)                 | HK416  | 416        | 416         |        11866 |         1642 |
-|      2 | ![ump45](./images/logo_ump45.png)             | UMP45  | UMP45      | ump45       |         8110 |          865 |
-|      3 | ![wa2000](./images/logo_wa2000.png)           | WA2000 | WA2000     | wa2000      |         3993 |          513 |
-|      4 | ![ump9](./images/logo_ump9.png)               | UMP9   | UMP9       | ump9        |         4737 |          452 |
-|      5 | ![springfield](./images/logo_springfield.png) | 春田     | スプリングフィールド | springfield |         2710 |          399 |
+|      1 | ![416](./images/logo_416.png)                 | HK416  | 416        | 416         |        11877 |         1634 |
+|      2 | ![ump45](./images/logo_ump45.png)             | UMP45  | UMP45      | ump45       |         8118 |          861 |
+|      3 | ![wa2000](./images/logo_wa2000.png)           | WA2000 | WA2000     | wa2000      |         4003 |          511 |
+|      4 | ![ump9](./images/logo_ump9.png)               | UMP9   | UMP9       | ump9        |         4740 |          451 |
+|      5 | ![springfield](./images/logo_springfield.png) | 春田     | スプリングフィールド | springfield |         2710 |          400 |
 
 Recent rank list of girls' front-line ( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/girlsfrontline_safe#recent-ranking) | [R18](https://github.com/narugo1992/games_character_ranking/tree/girlsfrontline_r18#recent-ranking) )
 
 |   Rank | Face                                | CN      | JP     | EN     |   All Images |   R18 Images |
 |--------|-------------------------------------|---------|--------|--------|--------------|--------------|
-|      1 | ![None](./images/logo_None.png)     | AR-18   |        |        |           20 |           20 |
-|      2 | ![None](./images/logo_None_2.png)   | QBZ-191 |        |        |           43 |           12 |
-|      3 | ![a_545](./images/logo_a_545.png)   | A-545   | A-545  | a_545  |           39 |            6 |
-|      4 | ![scr](./images/logo_scr.png)       | SCR     | SCR    | scr    |           17 |            3 |
-|      5 | ![zip_22](./images/logo_zip_22.png) | ZiP.22  | ZiP.22 | zip_22 |            8 |            1 |
+|      1 | ![None](./images/logo_None.png)     | QBZ-191 |        |        |           43 |           12 |
+|      2 | ![a_545](./images/logo_a_545.png)   | A-545   | A-545  | a_545  |           39 |            6 |
+|      3 | ![scr](./images/logo_scr.png)       | SCR     | SCR    | scr    |           17 |            3 |
+|      4 | ![zip_22](./images/logo_zip_22.png) | ZiP.22  | ZiP.22 | zip_22 |            8 |            1 |
+|      5 | ![mpl](./images/logo_mpl.png)       | MPL     | MPL    | mpl    |            6 |            1 |
 
 ## Project Neural Cloud
 
