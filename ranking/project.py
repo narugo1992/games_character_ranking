@@ -1,3 +1,4 @@
+import html
 import os
 import re
 import time
@@ -49,15 +50,15 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
             logo_image.save(logo_image_path)
             logo_md_element = f'![{ch.enname}]({os.path.join(".", IMAGES, logo_filename)})'
         else:
-            logo_md_element = '<no face detected>'
+            logo_md_element = html.escape('<no face detected>')
         logo_md_element = f'[{logo_md_element}]({pixiv_url})'
 
         table.append((
             rank,
             logo_md_element,
-            str(ch.cnname) if ch.cnname else '',
-            str(ch.jpname) if ch.jpname else '',
-            str(ch.enname) if ch.enname else '',
+            html.escape(str(ch.cnname) if ch.cnname else ''),
+            html.escape(str(ch.jpname) if ch.jpname else ''),
+            html.escape(str(ch.enname) if ch.enname else ''),
             total_count,
             r18_count,
         ))
