@@ -1,13 +1,15 @@
-# Character Ranking List of Fate/Grand Order [Safe]
+# Character Ranking List of Fgo [Safe]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Fate/grand order game character safe picture number ranking on pixiv, the top 65 characters. 
+## Overall Ranking
+
+Fgo game character safe picture number ranking on pixiv, the top 65 characters. 
 
 |   Rank | Face                                                                              | CN                  | JP                   | EN                            |   All Images |   R18 Images |
 |--------|-----------------------------------------------------------------------------------|---------------------|----------------------|-------------------------------|--------------|--------------|
 |      1 | ![mash_kyrielight](./images/logo_mash_kyrielight.png)                             | 玛修·基列莱特             | マシュ・キリエライト           | mash_kyrielight               |        29345 |         6575 |
-|      2 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png)                       | 贞德〔alter〕           | ジャンヌ・ダルク〔オルタ〕        | jeanne_d_arc_alter            |        21203 |         3544 |
+|      2 | ![jeanne_d_arc_alter](./images/logo_jeanne_d_arc_alter.png)                       | 贞德〔Alter〕           | ジャンヌ・ダルク〔オルタ〕        | jeanne_d_arc_alter            |        21203 |         3544 |
 |      3 | ![altria_pendragon](./images/logo_altria_pendragon.png)                           | 阿尔托莉雅·潘德拉贡          | アルトリア・ペンドラゴン         | altria_pendragon              |        18760 |         4124 |
 |      4 | ![okita_souji](./images/logo_okita_souji.png)                                     | 冲田总司                | 沖田総司                 | okita_souji                   |        15747 |         1674 |
 |      5 | ![abigail_williams](./images/logo_abigail_williams.png)                           | 阿比盖尔·威廉姆斯           | アビゲイル・ウィリアムズ         | abigail_williams              |        14255 |         1651 |
@@ -17,11 +19,11 @@ Fate/grand order game character safe picture number ranking on pixiv, the top 65
 |      9 | ![astolfo](./images/logo_astolfo.png)                                             | 阿斯托尔福               | アストルフォ               | astolfo                       |        10214 |         2948 |
 |     10 | ![scathach](./images/logo_scathach.png)                                           | 斯卡哈                 | スカサハ                 | scathach                      |         9865 |         2605 |
 |     11 | ![minamoto_no_raikou](./images/logo_minamoto_no_raikou.png)                       | 源赖光                 | 源頼光                  | minamoto_no_raikou            |         9231 |         4083 |
-|     12 | ![meltryllis](./images/logo_meltryllis.png)                                       | meltryllis          | メルトリリス               | meltryllis                    |         8990 |          820 |
+|     12 | ![meltryllis](./images/logo_meltryllis.png)                                       | Meltryllis          | メルトリリス               | meltryllis                    |         8990 |          820 |
 |     13 | ![jeanne_d_arc](./images/logo_jeanne_d_arc.png)                                   | 贞德                  | ジャンヌ・ダルク             | jeanne_d_arc                  |         8805 |         1922 |
 |     14 | ![gilgamesh](./images/logo_gilgamesh.png)                                         | 吉尔伽美什               | ギルガメッシュ              | gilgamesh                     |         8803 |          344 |
 |     15 | ![mordred](./images/logo_mordred.png)                                             | 莫德雷德                | モードレッド               | mordred                       |         8148 |         1265 |
-|     16 | ![bb](./images/logo_bb.png)                                                       | bb                  | ｂｂ                   | bb                            |         8029 |         2305 |
+|     16 | ![bb](./images/logo_bb.png)                                                       | BB                  | ＢＢ                   | bb                            |         8029 |         2305 |
 |     17 | ![kiyohime](./images/logo_kiyohime.png)                                           | 清姬                  | 清姫                   | kiyohime                      |         7662 |         1199 |
 |     18 | ![ereshkigal](./images/logo_ereshkigal.png)                                       | 埃列什基伽勒              | エレシュキガル              | ereshkigal                    |         6941 |          640 |
 |     19 | ![miyamoto_musashi](./images/logo_miyamoto_musashi.png)                           | 宫本武藏                | 宮本武蔵                 | miyamoto_musashi              |         6816 |         1423 |
@@ -33,7 +35,7 @@ Fate/grand order game character safe picture number ranking on pixiv, the top 65
 |     25 | ![merlin](./images/logo_merlin.png)                                               | 梅林                  | マーリン                 | merlin                        |         5813 |          207 |
 |     26 | ![enkidu](./images/logo_enkidu.png)                                               | 恩奇都                 | エルキドゥ                | enkidu                        |         5501 |           67 |
 |     27 | ![florence_nightingale](./images/logo_florence_nightingale.png)                   | 南丁格尔                | ナイチンゲール              | florence_nightingale          |         5404 |         1901 |
-|     28 | ![altria_pendragon_alter](./images/logo_altria_pendragon_alter.png)               | 阿尔托莉雅·潘德拉贡〔alter〕   | アルトリア・ペンドラゴン〔オルタ〕    | altria_pendragon_alter        |         5301 |          557 |
+|     28 | ![altria_pendragon_alter](./images/logo_altria_pendragon_alter.png)               | 阿尔托莉雅·潘德拉贡〔Alter〕   | アルトリア・ペンドラゴン〔オルタ〕    | altria_pendragon_alter        |         5301 |          557 |
 |     29 | ![morgan](./images/logo_morgan.png)                                               | 摩根                  | モルガン                 | morgan                        |         5065 |          704 |
 |     30 | ![katsushika_hokusai](./images/logo_katsushika_hokusai.png)                       | 葛饰北斋                | 葛飾北斎                 | katsushika_hokusai            |         5016 |          549 |
 |     31 | ![tomoe_gozen](./images/logo_tomoe_gozen.png)                                     | 巴御前                 | 巴御前                  | tomoe_gozen                   |         4813 |          917 |
@@ -57,17 +59,20 @@ Fate/grand order game character safe picture number ranking on pixiv, the top 65
 |     49 | ![arjuna](./images/logo_arjuna.png)                                               | 阿周那                 | アルジュナ                | arjuna                        |         3135 |          184 |
 |     50 | ![emiya](./images/logo_emiya.png)                                                 | 卫宫                  | エミヤ                  | emiya                         |         3104 |          118 |
 |     51 | ![robin_hood](./images/logo_robin_hood.png)                                       | 罗宾汉                 | ロビンフッド               | robin_hood                    |         3016 |          161 |
-|     52 | ![mysterious_heroine_x_alter](./images/logo_mysterious_heroine_x_alter.png)       | 谜之女主角x〔alter〕       | 謎のヒロインx〔オルタ〕         | mysterious_heroine_x_alter    |         2999 |          301 |
-|     53 | ![jeanne_d_arc_alter_santa_lily](./images/logo_jeanne_d_arc_alter_santa_lily.png) | 贞德·alter·santa·lily | ジャンヌ・ダルク・オルタ・サンタ・リリィ | jeanne_d_arc_alter_santa_lily |         2947 |          337 |
+|     52 | ![mysterious_heroine_x_alter](./images/logo_mysterious_heroine_x_alter.png)       | 谜之女主角X〔Alter〕       | 謎のヒロインX〔オルタ〕         | mysterious_heroine_x_alter    |         2999 |          301 |
+|     53 | ![jeanne_d_arc_alter_santa_lily](./images/logo_jeanne_d_arc_alter_santa_lily.png) | 贞德·Alter·Santa·Lily | ジャンヌ・ダルク・オルタ・サンタ・リリィ | jeanne_d_arc_alter_santa_lily |         2947 |          337 |
 |     54 | ![murasaki_shikibu](./images/logo_murasaki_shikibu.png)                           | 紫式部                 | 紫式部                  | murasaki_shikibu              |         2773 |          720 |
 |     55 | ![osakabehime](./images/logo_osakabehime.png)                                     | 刑部姬                 | 刑部姫                  | osakabehime                   |         2762 |          700 |
 |     56 | ![tam_lin_lancelot](./images/logo_tam_lin_lancelot.png)                           | 妖精骑士兰斯洛特            | 妖精騎士ランスロット           | tam_lin_lancelot              |         2760 |          397 |
 |     57 | ![medusa](./images/logo_medusa.png)                                               | 美杜莎                 | メドゥーサ                | medusa                        |         2754 |          573 |
 |     58 | ![ozymandias](./images/logo_ozymandias.png)                                       | 奥斯曼狄斯               | オジマンディアス             | ozymandias                    |         2728 |          140 |
 |     59 | ![martha](./images/logo_martha.png)                                               | 玛尔达                 | マルタ                  | martha                        |         2721 |          690 |
-|     60 | ![mysterious_heroine_xx](./images/logo_mysterious_heroine_xx.png)                 | 谜之女主角xx             | 謎のヒロインxx             | mysterious_heroine_xx         |         2717 |          794 |
+|     60 | ![mysterious_heroine_xx](./images/logo_mysterious_heroine_xx.png)                 | 谜之女主角XX             | 謎のヒロインXX             | mysterious_heroine_xx         |         2717 |          794 |
 |     61 | ![james_moriarty](./images/logo_james_moriarty.png)                               | 詹姆斯·莫里亚蒂            | ジェームズ・モリアーティ         | james_moriarty                |         2588 |           64 |
 |     62 | ![yang_guifei](./images/logo_yang_guifei.png)                                     | 杨贵妃                 | 楊貴妃                  | yang_guifei                   |         2558 |          389 |
 |     63 | ![frankenstein](./images/logo_frankenstein.png)                                   | 弗兰肯斯坦               | フランケンシュタイン           | frankenstein                  |         2546 |          248 |
-|     64 | ![passionlip](./images/logo_passionlip.png)                                       | passionlip          | パッションリップ             | passionlip                    |         2531 |          640 |
+|     64 | ![passionlip](./images/logo_passionlip.png)                                       | Passionlip          | パッションリップ             | passionlip                    |         2531 |          640 |
 |     65 | ![helena_blavatsky](./images/logo_helena_blavatsky.png)                           | 海伦娜·布拉瓦茨基           | エレナ・ブラヴァツキー          | helena_blavatsky              |         2458 |          502 |
+
+## Recent Ranking
+
