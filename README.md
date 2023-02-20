@@ -1,8 +1,10 @@
-# Character Ranking List of Girls' Front-Line [Safe]
+# Character Ranking List of Girlsfrontline [Safe]
 
 [![Last Updated](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/254442dea2e77cf46366df97f499242f/raw/data_last_update.json)](https://huggingface.co/datasets/deepghs/game_characters)
 
-Girls' front-line game character safe picture number ranking on pixiv, the top 80 characters. 
+## Overall Ranking
+
+Girlsfrontline game character safe picture number ranking on pixiv, the top 80 characters. 
 
 |   Rank | Face                                                | CN         | JP           | EN             |   All Images |   R18 Images |
 |--------|-----------------------------------------------------|------------|--------------|----------------|--------------|--------------|
@@ -86,3 +88,36 @@ Girls' front-line game character safe picture number ranking on pixiv, the top 8
 |     78 | ![ppsh_41](./images/logo_ppsh_41.png)               | PPSh-41    | PPSh-41      | ppsh_41        |          337 |           29 |
 |     79 | ![m99](./images/logo_m99.png)                       | M99        | M99          | m99            |          329 |           55 |
 |     80 | ![gr_mk23](./images/logo_gr_mk23.png)               | Mk23       | GrMk23       | gr_mk23        |          314 |           36 |
+
+## Recent Ranking
+
+Girlsfrontline game character safe picture number ranking on pixiv, only including 25 recent characters. 
+
+|   Rank | Face                                          | CN       | JP      | EN          |   All Images |   R18 Images |
+|--------|-----------------------------------------------|----------|---------|-------------|--------------|--------------|
+|      1 | ![None](./images/logo_None.png)               | QBZ-191  |         |             |           43 |           12 |
+|      2 | ![a_545](./images/logo_a_545.png)             | A-545    | A-545   | a_545       |           39 |            6 |
+|      3 | ![None](./images/logo_None_2.png)             | SCAR-H   |         |             |           28 |            0 |
+|      4 | ![None](./images/logo_None_3.png)             | SCAR-L   |         |             |           28 |            0 |
+|      5 | ![None](./images/logo_None_4.png)             | AR-18    |         |             |           20 |           20 |
+|      6 | ![scr](./images/logo_scr.png)                 | SCR      | SCR     | scr         |           17 |            3 |
+|      7 | ![None](./images/logo_None_5.png)             | Erma     |         |             |           14 |            0 |
+|      8 | ![zip_22](./images/logo_zip_22.png)           | ZiP.22   | ZiP.22  | zip_22      |            8 |            1 |
+|      9 | ![None](./images/logo_None_6.png)             | 柯尔特沃克    |         |             |            7 |            0 |
+|     10 | ![mpl](./images/logo_mpl.png)                 | MPL      | MPL     | mpl         |            6 |            1 |
+|     11 | ![None](./images/logo_None_7.png)             | 芮诺       |         |             |            6 |            0 |
+|     12 | ![None](./images/logo_None_8.png)             | SPAS-15  |         |             |            6 |            0 |
+|     13 | ![mpk](./images/logo_mpk.png)                 | MPK      | MPK     | mpk         |            4 |            1 |
+|     14 | ![None](./images/logo_None_9.png)             | MK3A1    |         |             |            4 |            0 |
+|     15 | ![None](./images/logo_None_10.png)            | M327     |         |             |            4 |            0 |
+|     16 | ![None](./images/logo_None_11.png)            | TF-Q     |         |             |            2 |            1 |
+|     17 | ![None](./images/logo_None_12.png)            | M240L    |         |             |            2 |            0 |
+|     18 | ![None](./images/logo_None_13.png)            | CMR-30   |         |             |            1 |            1 |
+|     19 | ![None](./images/logo_None_14.png)            | LS26     |         |             |            1 |            0 |
+|     20 | ![None](./images/logo_None_15.png)            | UTS-15   |         |             |            1 |            0 |
+|     21 | ![vigneron_m2](./images/logo_vigneron_m2.png) | 维涅龙M2    | ビグネロンM2 | vigneron_m2 |            0 |            0 |
+|     22 | ![None](./images/logo_None_16.png)            | PPQ      |         |             |            0 |            0 |
+|     23 | ![None](./images/logo_None_17.png)            | 斯特林      |         |             |            0 |            0 |
+|     24 | ![None](./images/logo_None_18.png)            | P290     |         |             |            0 |            0 |
+|     25 | ![None](./images/logo_None_19.png)            | Saiga308 |         |             |            0 |            0 |
+
