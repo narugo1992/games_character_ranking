@@ -31,8 +31,9 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
     table = []
     existing_filenames = set(existing_logo_filenames or [])
     for rank, (ch, total_count, r18_count) in enumerate(tqdm(items), start=1):
-        logo_image = get_logo(ch, min_size=icon_size).resize((icon_size, icon_size))
+        logo_image = get_logo(ch, min_size=icon_size)
         if logo_image is not None:
+            logo_image = logo_image.resize((icon_size, icon_size))
             logo_filename = f'logo_{ch.enname}.png'
             index = 1
             while logo_filename in existing_filenames:
@@ -109,8 +110,10 @@ def create_ranking_project(game: str, output_dir: str, count: int = 10, icon_siz
 
 
 def create_homepage_project(output_dir: str, games: Optional[List[str]] = None,
-                            count: int = 5, icon_size: int = 100, mode: str = 'r18'):
+                            count: int = 5, icon_size: int = 100, mode: str = 'r18',
+                            min_recent_count: int = 10, recent_time: str = "240 days"):
     games = games or GAME_NAMES
+    recent_time = time_to_duration(recent_time)
 
     os.makedirs(output_dir, exist_ok=True)
     images_dir = os.path.join(output_dir, IMAGES)
@@ -139,12 +142,31 @@ def create_homepage_project(output_dir: str, games: Optional[List[str]] = None,
 
             print(f'## {_capitalize(game_title)}', file=f)
             print(file=f)
-            print(f'Top rank list of {game_title} '
-                  f'( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/{game}_safe) '
-                  f'| [R18](https://github.com/narugo1992/games_character_ranking/tree/{game}_r18) )', file=f)
+            print(
+                f'Top rank list of {game_title} '
+                f'( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/{game}_safe#overall-ranking) '
+                f'| [R18](https://github.com/narugo1992/games_character_ranking/tree/{game}_r18#overall-ranking) )',
+                file=f
+            )
+            print(file=f)
+            all_chars = cls.all(contains_extra=False)
+            _, table_text, _existing_image_filenames = create_ranking_table(
+                all_chars, images_dir, count, icon_size, mode, _existing_image_filenames)
+            print(table_text, file=f)
             print(file=f)
 
+            print(
+                f'Recent rank list of {game_title} '
+                f'( Full Version: [Safe](https://github.com/narugo1992/games_character_ranking/tree/{game}_safe#recent-ranking) '
+                f'| [R18](https://github.com/narugo1992/games_character_ranking/tree/{game}_r18#recent-ranking) )',
+                file=f
+            )
+            print(file=f)
+            recent_chars = [ch for ch in all_chars if ch.release_time is not None and
+                            ch.release_time + recent_time > time.time()]
+            if len(recent_chars) < min_recent_count:
+                recent_chars = all_chars[-min_recent_count:]
             _, table_text, _existing_image_filenames = create_ranking_table(
-                cls.all(contains_extra=False), images_dir, count, icon_size, mode, _existing_image_filenames)
+                recent_chars, images_dir, count, icon_size, mode, _existing_image_filenames)
             print(table_text, file=f)
             print(file=f)

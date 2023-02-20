@@ -85,8 +85,8 @@ jobs:
           retry_on: error
           command: |
             python -m ranking create -g ${{ matrix.game }} -m ${{ matrix.mode }} -o dist \
-              -n $(python -m ranking crec -g ${{ matrix.game }})
-            tree dist
+              -n $(python -m ranking crec -g ${{ matrix.game }}) && \
+              tree dist
       - name: Deploy to Github Page
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
@@ -158,8 +158,8 @@ jobs:
           max_attempts: 3
           retry_on: error
           command: |
-            make clean
-            python -m ranking relocal -m ${{ matrix.mode }} -n 5
+            make clean && \
+              python -m ranking relocal -m ${{ matrix.mode }} -n 5
       - name: Change Commit
         id: commit
         run: |
