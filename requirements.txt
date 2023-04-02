@@ -1,4 +1,4 @@
-gchar[speedup]>=0.0.6
+git+https://github.com/narugo1992/gchar.git@main#egg=gchar[speedup]
 pillow
 anime-face-detector
 numpy==1.21.6
