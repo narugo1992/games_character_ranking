@@ -68,11 +68,18 @@ def _yield_skin_neuralcloud(ch: NeuralCloudCharacter) -> Iterator[Skin]:
             yield skin
 
 
+def _yield_skin_azurlane(ch: AzurLaneCharacter) -> Iterator[Skin]:
+    for skin in ch.skins:
+        if 'chibi' not in skin.name.lower():
+            yield skin
+
+
 _SKIN_YIELDERS = {
     'girlsfrontline': _yield_skin_girlsfrontline,
     'arknights': _yield_skin_arknights,
     'fgo': _yield_skin_fgo,
     'neuralcloud': _yield_skin_neuralcloud,
+    'azurlane': _yield_skin_azurlane,
 }
 
 
