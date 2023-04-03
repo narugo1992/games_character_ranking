@@ -58,7 +58,7 @@ def _yield_skin_arknights(ch: ArknightsCharacter) -> Iterator[Skin]:
 
 def _yield_skin_fgo(ch: FateGrandOrderCharacter) -> Iterator[Skin]:
     for skin in ch.skins:
-        if '愚人节' not in skin.name:
+        if '愚人节' not in skin.name and 'Grail'.lower() not in skin.name.lower():
             yield skin
 
 
