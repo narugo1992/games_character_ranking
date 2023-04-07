@@ -1,6 +1,7 @@
 git+https://github.com/narugo1992/gchar.git@main#egg=gchar[speedup,crawl]
 pillow
 anime-face-detector
+mmpose<1
 numpy==1.21.6
 torch
 tabulate
