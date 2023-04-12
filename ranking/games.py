@@ -52,8 +52,7 @@ def _yield_skin_girlsfrontline(ch: GirlsFrontLineCharacter) -> Iterator[Skin]:
 
 
 def _yield_skin_arknights(ch: ArknightsCharacter) -> Iterator[Skin]:
-    skins = sorted(ch.skins, key=lambda x: x.name)
-    yield from skins
+    yield from ch.skins
 
 
 def _yield_skin_fgo(ch: FateGrandOrderCharacter) -> Iterator[Skin]:

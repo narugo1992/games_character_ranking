@@ -117,7 +117,7 @@ def create_ranking_project(game: str, output_dir: str, count: int = 10, icon_siz
 
 
 def create_homepage_project(output_dir: str, games: Optional[List[str]] = None,
-                            count: int = 5, icon_size: int = 100, mode: str = 'r18',
+                            count: int = 5, icon_size: int = 100, mode: str = 'safe',
                             min_recent_count: int = 10, recent_time: str = "240 days"):
     games = games or GAME_NAMES
     recent_time = time_to_duration(recent_time)

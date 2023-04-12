@@ -79,7 +79,7 @@ def crec(game: str, ratio: float, unit: int, min_count: int):
 @click.option('--game', '-g', 'games', type=click.Choice(GAME_NAMES), multiple=True, default=None,
               help='Update data of given game from huggingface. '
                    'All games will be updated when not given.', show_default=True)
-@click.option('--mode', '-m', 'mode', type=click.Choice(['r18', 'safe']), default='r18',
+@click.option('--mode', '-m', 'mode', type=click.Choice(['r18', 'safe']), default='safe',
               help='Mode and order to create.', show_default=True)
 @click.option('--output', '-o', 'output_dir', type=click.Path(file_okay=False), default='.',
               help='Output path of ranklist project.')
