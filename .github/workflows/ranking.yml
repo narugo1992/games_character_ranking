@@ -159,7 +159,7 @@ jobs:
           retry_on: error
           command: |
             make clean && \
-              python -m ranking relocal -m ${{ matrix.mode }} -n 5
+              python -m ranking relocal -m ${{ matrix.mode }} -n 10
       - name: Change Commit
         id: commit
         run: |
