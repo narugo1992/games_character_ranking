@@ -7,6 +7,7 @@ from PIL import Image
 from gchar.games.arknights import Character as ArknightsCharacter
 from gchar.games.azurlane import Character as AzurLaneCharacter
 from gchar.games.base import Character, Skin
+from gchar.games.bluearchive import Character as BlueArchiveCharacter
 from gchar.games.fgo import Character as FateGrandOrderCharacter
 from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
@@ -20,6 +21,7 @@ _GAMES = [
     (GenshinImpactCharacter, 'genshin', 'genshin impact'),
     (GirlsFrontLineCharacter, 'girlsfrontline', 'girls\' front-line'),
     (NeuralCloudCharacter, 'neuralcloud', 'project neural cloud'),
+    (BlueArchiveCharacter, 'bluearchive', 'blue archive'),
 ]
 
 GAME_NAMES = [name for _, name, _ in _GAMES]

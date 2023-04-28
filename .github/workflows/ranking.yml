@@ -26,6 +26,7 @@ jobs:
           - 'girlsfrontline'
           - 'genshin'
           - 'neuralcloud'
+          - 'bluearchive'
         mode:
           - 'r18'
           - 'safe'
