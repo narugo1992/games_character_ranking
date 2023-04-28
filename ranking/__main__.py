@@ -3,28 +3,15 @@ from functools import partial
 from typing import List
 
 import click
-from gchar.games.arknights import Character as ArknightsCharacter
-from gchar.games.azurlane import Character as AzurLaneCharacter
-from gchar.games.fgo import Character as FateGrandOrderCharacter
-from gchar.games.genshin import Character as GenshinImpactCharacter
-from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
-from gchar.games.neuralcloud import Character as NeuralCloudCharacter
 
-from .games import GAME_NAMES
+from .games import GAME_NAMES, _GAMES
 from .project import create_ranking_project, create_homepage_project
 from .utils import GLOBAL_CONTEXT_SETTINGS
 from .utils import print_version as _origin_print_version
 
 print_version = partial(_origin_print_version, 'ranking')
 
-GAME_CLASSES = {
-    'fgo': FateGrandOrderCharacter,
-    'arknights': ArknightsCharacter,
-    'genshin': GenshinImpactCharacter,
-    'azurlane': AzurLaneCharacter,
-    'girlsfrontline': GirlsFrontLineCharacter,
-    'neuralcloud': NeuralCloudCharacter,
-}
+GAME_CLASSES = {name: cls for cls, name, _ in _GAMES}
 
 
 @click.group(context_settings={**GLOBAL_CONTEXT_SETTINGS})
