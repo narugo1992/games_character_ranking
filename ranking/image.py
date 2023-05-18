@@ -1,15 +1,8 @@
-from functools import lru_cache
 from typing import Tuple, List
 
 import numpy as np
-import torch.cuda
 from PIL import Image
-from anime_face_detector import create_detector
-
-
-@lru_cache()
-def _get_detector(model='yolov3'):
-    return create_detector(model, device='cuda' if torch.cuda.is_available() else 'cpu')
+from imgutils.detect import detect_faces
 
 
 def fill_background(image: Image.Image, background: str = 'white') -> Image.Image:
@@ -36,18 +29,14 @@ def image_padding(image: Image.Image, width_padding: Tuple[int, int] = (0, 0),
 
 
 def find_heads(image: Image.Image, threshold: float = 0.5,
-               scale: Tuple[Tuple[float, float], Tuple[float, float]] = ((2.0, 2.5), (2.0, 1.5)),
-               model='yolov3') -> List[Tuple[Image.Image, float]]:
+               scale: Tuple[Tuple[float, float], Tuple[float, float]] = ((2.0, 2.5), (2.0, 1.5))) \
+        -> List[Tuple[Image.Image, float]]:
     image = fill_background(image, background='white')
     scale = np.asarray(scale)
-    data_pil = np.asarray(image)
-    data_cv2 = data_pil[:, :, ::-1]
 
-    detector = _get_detector(model)
     retval = []
-    for pred in detector(data_cv2):
-        bbox_raw = pred['bbox']
-        box, score = bbox_raw[:4], float(bbox_raw[4])
+    for bbox_raw, _, score in detect_faces(image):
+        box = np.asarray(bbox_raw).astype(float)
         if score < threshold:
             continue
 
