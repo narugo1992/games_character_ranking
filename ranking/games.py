@@ -84,12 +84,12 @@ _SKIN_YIELDERS = {
 }
 
 
-def get_logo(ch: Character, out_threshold: float = 0.95, min_threshold: float = 0.65,
-             min_size: int = 120) -> Optional[Image.Image]:
+def get_logo(ch: Character, out_threshold: float = 0.8, min_threshold: float = 0.45,
+             peek_threshold: float = 0.7, min_size: int = 120) -> Optional[Image.Image]:
     from .image import find_heads
     cls, game_name = get_character_class(type(ch))
     collected_skins = []
-    for skin in _SKIN_YIELDERS.get(game_name, _yield_skin_default)(ch):
+    for skin_id, skin in enumerate(_SKIN_YIELDERS.get(game_name, _yield_skin_default)(ch)):
         with tempfile.TemporaryDirectory() as td:
             skin_file = os.path.join(td, 'skin.png')
             sleep_time = 3.0
@@ -110,15 +110,13 @@ def get_logo(ch: Character, out_threshold: float = 0.95, min_threshold: float = 
                 if score >= out_threshold and head.width >= min_size:
                     return head
                 elif score >= min_threshold:
-                    collected_skins.append((head, score, head.width, i, skin.name))
+                    collected_skins.append((head, score, head.width, i, skin_id))
 
     if not collected_skins:
         return None
 
     collected_skins = sorted(
         collected_skins,
-        key=lambda x: (x[3], -min(x[1], (out_threshold + min_threshold) / 2), -min(x[2], min_size * 1.5))
+        key=lambda x: (x[3], -min(x[1], peek_threshold), -min(x[2], min_size * 1.5, skin_id))
     )
-    print(collected_skins)
-    print(collected_skins[0])
     return collected_skins[0][0]

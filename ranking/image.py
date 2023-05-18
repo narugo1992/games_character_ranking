@@ -28,7 +28,7 @@ def image_padding(image: Image.Image, width_padding: Tuple[int, int] = (0, 0),
     return Image.fromarray(data, 'RGB')
 
 
-def find_heads(image: Image.Image, threshold: float = 0.5,
+def find_heads(image: Image.Image, threshold: float = 0.45,
                scale: Tuple[Tuple[float, float], Tuple[float, float]] = ((2.0, 2.5), (2.0, 1.5))) \
         -> List[Tuple[Image.Image, float]]:
     image = fill_background(image, background='white')
