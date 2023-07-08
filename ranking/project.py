@@ -6,7 +6,7 @@ from typing import Optional, List, Collection, Tuple
 from urllib.parse import quote
 
 from gchar.games.base import Character as BaseCharacter
-from gchar.resources.pixiv import query_pixiv_illustration_count_by_character, get_pixiv_keywords
+from gchar.resources.pixiv import get_pixiv_posts, get_pixiv_keywords
 from hbutils.scale import time_to_duration
 from hbutils.string import plural_word
 from tabulate import tabulate
@@ -22,7 +22,7 @@ def create_ranking_table(chars: List[BaseCharacter], icon_dir: str, count: int =
                          existing_logo_filenames: Optional[Collection[str]] = None) -> Tuple[int, str, List[str]]:
     items = []
     for ch in chars:
-        data = query_pixiv_illustration_count_by_character(ch)
+        data = get_pixiv_posts(ch)
         if not data:
             continue
         items.append((ch, *data))
