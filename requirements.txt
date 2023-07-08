@@ -1,4 +1,4 @@
-git+https://github.com/narugo1992/gchar.git@main#egg=gchar[speedup,crawl]
+git+https://github.com/narugo1992/gchar.git@main#egg=gchar[speedup]
 pillow
 dghs-imgutils>=0.1.0
 numpy==1.21.6
