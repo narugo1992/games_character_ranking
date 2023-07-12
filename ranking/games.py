@@ -12,6 +12,7 @@ from gchar.games.fgo import Character as FateGrandOrderCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
 from gchar.games.neuralcloud import Character as NeuralCloudCharacter
 from gchar.games.nikke import Character as NikkeCharacter
+from gchar.games.starrail import Character as StarRailCharacter
 from gchar.utils import download_file
 from requests.exceptions import RequestException
 
@@ -77,12 +78,19 @@ def _yield_skin_nikke(ch: NikkeCharacter) -> Iterator[Skin]:
             yield skin
 
 
+def _yield_skin_starrail(ch: StarRailCharacter) -> Iterator[Skin]:
+    for skin in ch.skins:
+        if '介绍' not in skin.name:
+            yield skin
+
+
 _SKIN_YIELDERS = {
     'girlsfrontline': _yield_skin_girlsfrontline,
     'fgo': _yield_skin_fgo,
     'neuralcloud': _yield_skin_neuralcloud,
     'azurlane': _yield_skin_azurlane,
     'nikke': _yield_skin_nikke,
+    'starrail': _yield_skin_starrail,
 }
 
 
