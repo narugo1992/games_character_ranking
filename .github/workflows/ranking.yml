@@ -4,7 +4,7 @@ permissions:
   contents: write
 
 on:
-  #  push:
+  push:
   workflow_dispatch:
   repository_dispatch:
     types:
@@ -27,6 +27,9 @@ jobs:
           - 'genshin'
           - 'neuralcloud'
           - 'bluearchive'
+          - 'pathtonowhere'
+          - 'nikke'
+          - 'starrail'
         mode:
           - 'r18'
           - 'safe'

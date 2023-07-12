@@ -7,21 +7,17 @@ from PIL import Image
 from gchar.games.arknights import Character as ArknightsCharacter
 from gchar.games.azurlane import Character as AzurLaneCharacter
 from gchar.games.base import Character, Skin
-from gchar.games.bluearchive import Character as BlueArchiveCharacter
+from gchar.games.dispatch.access import GAME_CHARS
 from gchar.games.fgo import Character as FateGrandOrderCharacter
-from gchar.games.genshin import Character as GenshinImpactCharacter
 from gchar.games.girlsfrontline import Character as GirlsFrontLineCharacter
 from gchar.games.neuralcloud import Character as NeuralCloudCharacter
+from gchar.games.nikke import Character as NikkeCharacter
+from gchar.utils import download_file
 from requests.exceptions import RequestException
 
 _GAMES = [
-    (ArknightsCharacter, 'arknights', 'arknights'),
-    (FateGrandOrderCharacter, 'fgo', 'fate/grand order'),
-    (AzurLaneCharacter, 'azurlane', 'azur lane'),
-    (GenshinImpactCharacter, 'genshin', 'genshin impact'),
-    (GirlsFrontLineCharacter, 'girlsfrontline', 'girls\' front-line'),
-    (NeuralCloudCharacter, 'neuralcloud', 'project neural cloud'),
-    (BlueArchiveCharacter, 'bluearchive', 'blue archive'),
+    (ch, name, ch.__official_name__)
+    for name, ch in GAME_CHARS.items()
 ]
 
 GAME_NAMES = [name for _, name, _ in _GAMES]
@@ -75,12 +71,18 @@ def _yield_skin_azurlane(ch: AzurLaneCharacter) -> Iterator[Skin]:
             yield skin
 
 
+def _yield_skin_nikke(ch: NikkeCharacter) -> Iterator[Skin]:
+    for skin in ch.skins:
+        if 'anim' not in skin.name.lower():
+            yield skin
+
+
 _SKIN_YIELDERS = {
     'girlsfrontline': _yield_skin_girlsfrontline,
-    'arknights': _yield_skin_arknights,
     'fgo': _yield_skin_fgo,
     'neuralcloud': _yield_skin_neuralcloud,
     'azurlane': _yield_skin_azurlane,
+    'nikke': _yield_skin_nikke,
 }
 
 
@@ -95,7 +97,7 @@ def get_logo(ch: Character, out_threshold: float = 0.8, min_threshold: float = 0
             sleep_time = 3.0
             while True:
                 try:
-                    skin.download(skin_file, timeout=20)
+                    download_file(skin.selected_url, skin_file, timeout=20)
                 except RequestException:
                     pass
                 else:
