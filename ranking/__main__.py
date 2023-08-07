@@ -3,6 +3,7 @@ from functools import partial
 from typing import List
 
 import click
+from ditk import logging
 
 from .games import GAME_NAMES, _GAMES
 from .project import create_ranking_project, create_homepage_project
@@ -38,8 +39,9 @@ def cli():
               help='Recent days for recent ranking.', show_default=True)
 @click.option('--min_recent_count', 'min_recent_count', type=int, default=25,
               help='Minimum recent character count in recent ranking.', show_default=True)
-def update(game: str, mode: str, number: int, output_dir: str, icon_size: int,
+def create(game: str, mode: str, number: int, output_dir: str, icon_size: int,
            recent_days: int, min_recent_count: int):
+    logging.try_init_root(logging.INFO)
     create_ranking_project(game, output_dir, number, icon_size, mode, min_recent_count, f'{recent_days} days')
 
 
@@ -54,6 +56,7 @@ def update(game: str, mode: str, number: int, output_dir: str, icon_size: int,
 @click.option('--min', '-m', 'min_count', type=int, default=40,
               help='Minimum count of ranklist.', show_default=True)
 def crec(game: str, ratio: float, unit: int, min_count: int):
+    logging.try_init_root(logging.INFO)
     game_cls = GAME_CLASSES[game]
     all_count = len(game_cls.all(contains_extra=False))
     exact_count = all_count * ratio
@@ -80,6 +83,7 @@ def crec(game: str, ratio: float, unit: int, min_count: int):
               help='Minimum recent character count in recent ranking.', show_default=True)
 def relocal(games: List[str], mode: str, number: int, output_dir: str, icon_size: int,
             recent_days: int, min_recent_count: int):
+    logging.try_init_root(logging.INFO)
     create_homepage_project(output_dir, games, number, icon_size, mode, min_recent_count, f'{recent_days} days')
 
 
